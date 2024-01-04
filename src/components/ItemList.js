@@ -42,11 +42,12 @@ const TournamentSubHeadingText = styled.div`
 `;
 
 const ItemList = ({ data }) => {
+  console.log(data[0].number);
   return (
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>The Sentry TOC</TournamentName>
+          <TournamentName>The Sentry</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
               The Plantation Course • Jan 4-7, 2024
@@ -55,10 +56,10 @@ const ItemList = ({ data }) => {
         </>
       ) : null}
       <ItemListContainer>
-        {data[0].number
+        {data[0].number === "0"
           ? data
-              .sort((a, b) => a.number - b.number)
-              .reverse()
+              // .sort((a, b) => a.number - b.number || a.number)
+              // .reverse()
               .map((item, index) => (
                 <Item
                   key={index}
@@ -68,7 +69,7 @@ const ItemList = ({ data }) => {
                   color={item.color}
                 />
               ))
-          : data[0].color
+          : data[0].isCurrent
           ? data.map((item, index) => (
               <Item
                 key={index}
