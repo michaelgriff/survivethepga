@@ -109,9 +109,9 @@ export const history = {
   ],
   adamgriff: [
     {
-      playerName: "Jordan Spieth",
+      playerName: "Max Homa",
       playerPhoto:
-        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34046.jpg",
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39977.jpg",
       tournamentName: "The Sentry",
       result: 320250,
     },
