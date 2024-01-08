@@ -56,10 +56,10 @@ const ItemList = ({ data }) => {
         </>
       ) : null}
       <ItemListContainer>
-        {data[0].number === "0"
+        {data[0].number
           ? data
-              // .sort((a, b) => a.number - b.number || a.number)
-              // .reverse()
+              .sort((a, b) => a.number - b.number || a.number)
+              .reverse()
               .map((item, index) => (
                 <Item
                   key={index}
