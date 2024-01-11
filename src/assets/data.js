@@ -7,6 +7,13 @@ export const history = {
       tournamentName: "The Sentry",
       result: 690500,
     },
+    {
+      playerName: "Brian Harman",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_27644.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
+    },
   ],
   davidifergan: [
     {
@@ -15,6 +22,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_47591.jpg",
       tournamentName: "The Sentry",
       result: 320250,
+    },
+    {
+      playerName: "Brian Harman",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_27644.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
     },
   ],
   mattholland: [
@@ -25,6 +39,13 @@ export const history = {
       tournamentName: "The Sentry",
       result: 690500,
     },
+    {
+      playerName: "Matt Fitzpatrick",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_40098.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
+    },
   ],
   jakegreenberg: [
     {
@@ -33,6 +54,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_55182.jpg",
       tournamentName: "The Sentry",
       result: 68000,
+    },
+    {
+      playerName: "Brian Harman",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_27644.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
     },
   ],
   dustinpulver: [
@@ -43,6 +71,13 @@ export const history = {
       tournamentName: "The Sentry",
       result: 530000,
     },
+    {
+      playerName: "Brendan Todd",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_30927.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
+    },
   ],
   jackbleiweis: [
     {
@@ -51,6 +86,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_46717.jpg",
       tournamentName: "The Sentry",
       result: 220000,
+    },
+    {
+      playerName: "Matt Fitzpatrick",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_40098.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
     },
   ],
   michaelgriff: [
@@ -61,6 +103,13 @@ export const history = {
       tournamentName: "The Sentry",
       result: 62000,
     },
+    {
+      playerName: "Tyrell Hatton",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34363.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
+    },
   ],
   chasebergman: [
     {
@@ -69,6 +118,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_50525.jpg",
       tournamentName: "The Sentry",
       result: 690500,
+    },
+    {
+      playerName: "Justin Suh",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_50493.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
     },
   ],
   coletishler: [
@@ -79,6 +135,13 @@ export const history = {
       tournamentName: "The Sentry",
       result: 320250,
     },
+    {
+      playerName: "Byeong Hun An",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_33948.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
+    },
   ],
   deansacoransky: [
     {
@@ -87,6 +150,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_27644.jpg",
       tournamentName: "The Sentry",
       result: 690500,
+    },
+    {
+      playerName: "JT Poston",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_49771.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
     },
   ],
   maxwiseman: [
@@ -97,6 +167,13 @@ export const history = {
       tournamentName: "The Sentry",
       result: 690500,
     },
+    {
+      playerName: "Corey Conners",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39997.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
+    },
   ],
   ryanschwartz: [
     {
@@ -105,6 +182,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
       tournamentName: "The Sentry",
       result: 690500,
+    },
+    {
+      playerName: "Akshay Bhatia",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_56630.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
     },
   ],
   adamgriff: [
@@ -115,6 +199,13 @@ export const history = {
       tournamentName: "The Sentry",
       result: 320250,
     },
+    {
+      playerName: "Russell Henley",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34098.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
+    },
   ],
   davidgriff: [
     {
@@ -123,6 +214,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_50525.jpg",
       tournamentName: "The Sentry",
       result: 690500,
+    },
+    {
+      playerName: "Brian Harman",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_27644.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
     },
   ],
   simongrammer: [
@@ -133,6 +231,13 @@ export const history = {
       tournamentName: "The Sentry",
       result: 690500,
     },
+    {
+      playerName: "Russell Henley",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34098.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
+    },
   ],
   tygreenberg: [
     {
@@ -141,6 +246,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34046.jpg",
       tournamentName: "The Sentry",
       result: 1360000,
+    },
+    {
+      playerName: "Corey Conners",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39997.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
     },
   ],
   fletcherblakely: [
@@ -151,6 +263,13 @@ export const history = {
       tournamentName: "The Sentry",
       result: 320250,
     },
+    {
+      playerName: "Corey Conners",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39997.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
+    },
   ],
   harrywood: [
     {
@@ -159,6 +278,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_50525.jpg",
       tournamentName: "The Sentry",
       result: 690500,
+    },
+    {
+      playerName: "Corey Conners",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39997.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
     },
   ],
   aarongotkin: [
@@ -169,6 +295,13 @@ export const history = {
       tournamentName: "The Sentry",
       result: 320250,
     },
+    {
+      playerName: "Tyrell Hatton",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34363.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
+    },
   ],
   spencersnow: [
     {
@@ -178,15 +311,28 @@ export const history = {
       tournamentName: "The Sentry",
       result: 1360000,
     },
+    {
+      playerName: "Byeong Hun An",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_33948.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
+    },
   ],
   jonahgutmann: [
     {
       playerName: "Viktor Hovland",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_46717.jpg",
-
       tournamentName: "The Sentry",
       result: 220000,
+    },
+    {
+      playerName: "Hideki Matsuyama",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_32839.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
     },
   ],
 };

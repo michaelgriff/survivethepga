@@ -47,10 +47,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>The Sentry</TournamentName>
+          <TournamentName>Sony Open in Hawaii</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              The Plantation Course • Jan 4-7, 2024
+              Waialae CC • Jan 11-14, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
