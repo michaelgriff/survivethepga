@@ -115,7 +115,7 @@ const Item = ({
         ) : tournamentName ? (
           <NameContainer>
             <PlayerName noMargin>{tournamentName}</PlayerName>
-            <Number>{result ? result.toLocaleString() : "TBD"}</Number>
+            <Number>{result.toLocaleString()}</Number>
           </NameContainer>
         ) : (
           <NameContainer>
