@@ -12,7 +12,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_27644.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 106102,
     },
   ],
   davidifergan: [
@@ -28,7 +28,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_27644.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 106102,
     },
   ],
   mattholland: [
@@ -60,7 +60,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_27644.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 106102,
     },
   ],
   dustinpulver: [
@@ -76,7 +76,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_30927.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 40001,
     },
   ],
   jackbleiweis: [
@@ -108,7 +108,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34363.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 153135,
     },
   ],
   chasebergman: [
@@ -140,7 +140,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_33948.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 738700,
     },
   ],
   deansacoransky: [
@@ -156,7 +156,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_49771.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 300875,
     },
   ],
   maxwiseman: [
@@ -172,7 +172,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39997.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 18592,
     },
   ],
   ryanschwartz: [
@@ -188,7 +188,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_56630.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 153135,
     },
   ],
   adamgriff: [
@@ -204,7 +204,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34098.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 373500,
     },
   ],
   davidgriff: [
@@ -220,7 +220,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_27644.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 106102,
     },
   ],
   simongrammer: [
@@ -236,7 +236,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34098.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 373500,
     },
   ],
   tygreenberg: [
@@ -252,7 +252,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39997.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 18592,
     },
   ],
   fletcherblakely: [
@@ -268,7 +268,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39997.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 18592,
     },
   ],
   harrywood: [
@@ -284,7 +284,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39997.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 18592,
     },
   ],
   aarongotkin: [
@@ -300,7 +300,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34363.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 153135,
     },
   ],
   spencersnow: [
@@ -316,7 +316,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_33948.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 738700,
     },
   ],
   jonahgutmann: [
@@ -332,7 +332,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_32839.jpg",
       tournamentName: "Sony Open in Hawaii",
-      result: 0,
+      result: 40001,
     },
   ],
 };

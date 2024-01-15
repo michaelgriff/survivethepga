@@ -111,11 +111,11 @@ const Item = ({
           )}
         </NameContainer>
         {number ? (
-          <Number>{number}</Number>
+          <Number>{number.toLocaleString()}</Number>
         ) : tournamentName ? (
           <NameContainer>
             <PlayerName noMargin>{tournamentName}</PlayerName>
-            <Number>{result ? result : "TBD"}</Number>
+            <Number>{result ? result.toLocaleString() : "TBD"}</Number>
           </NameContainer>
         ) : (
           <NameContainer>
