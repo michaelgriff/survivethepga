@@ -47,10 +47,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>Sony Open in Hawaii</TournamentName>
+          <TournamentName>The American Express</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Waialae CC • Jan 11-14, 2024
+              PGA West & La Quinta CC • Jan 18-21, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>

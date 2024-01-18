@@ -14,6 +14,13 @@ export const history = {
       tournamentName: "Sony Open in Hawaii",
       result: 106102,
     },
+    {
+      playerName: "Akshay Bhatia",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_56630.jpg",
+      tournamentName: "The American Express",
+      result: 0,
+    },
   ],
   davidifergan: [
     {
@@ -30,6 +37,13 @@ export const history = {
       tournamentName: "Sony Open in Hawaii",
       result: 106102,
     },
+    {
+      playerName: "Wyndham Clark",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_51766.jpg",
+      tournamentName: "The American Express",
+      result: 0,
+    },
   ],
   mattholland: [
     {
@@ -44,6 +58,13 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_40098.jpg",
       tournamentName: "Sony Open in Hawaii",
+      result: 0,
+    },
+    {
+      playerName: "Sungjae Im",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
+      tournamentName: "The American Express",
       result: 0,
     },
   ],
@@ -62,6 +83,13 @@ export const history = {
       tournamentName: "Sony Open in Hawaii",
       result: 106102,
     },
+    {
+      playerName: "Sungjae Im",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
+      tournamentName: "The American Express",
+      result: 0,
+    },
   ],
   dustinpulver: [
     {
@@ -78,6 +106,13 @@ export const history = {
       tournamentName: "Sony Open in Hawaii",
       result: 40001,
     },
+    {
+      playerName: "Sungjae Im",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
+      tournamentName: "The American Express",
+      result: 0,
+    },
   ],
   jackbleiweis: [
     {
@@ -91,6 +126,13 @@ export const history = {
       playerName: "Matt Fitzpatrick",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_40098.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
+    },
+    {
+      playerName: "Taylor Pendrith",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_40250.jpg",
       tournamentName: "Sony Open in Hawaii",
       result: 0,
     },
@@ -110,6 +152,13 @@ export const history = {
       tournamentName: "Sony Open in Hawaii",
       result: 153135,
     },
+    {
+      playerName: "Sungjae Im",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
+      tournamentName: "The American Express",
+      result: 0,
+    },
   ],
   chasebergman: [
     {
@@ -124,6 +173,13 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_50493.jpg",
       tournamentName: "Sony Open in Hawaii",
+      result: 0,
+    },
+    {
+      playerName: "Min Woo Lee",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_37378.jpg",
+      tournamentName: "The American Express",
       result: 0,
     },
   ],
@@ -142,6 +198,13 @@ export const history = {
       tournamentName: "Sony Open in Hawaii",
       result: 738700,
     },
+    {
+      playerName: "Justin Thomas",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:FFFFFF,d_stub:default_avatar_light.png/headshots_33448.jpg",
+      tournamentName: "The American Express",
+      result: 0,
+    },
   ],
   deansacoransky: [
     {
@@ -158,6 +221,13 @@ export const history = {
       tournamentName: "Sony Open in Hawaii",
       result: 300875,
     },
+    {
+      playerName: "Min Woo Lee",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_37378.jpg",
+      tournamentName: "The American Express",
+      result: 0,
+    },
   ],
   maxwiseman: [
     {
@@ -171,6 +241,13 @@ export const history = {
       playerName: "Corey Conners",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39997.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 18592,
+    },
+    {
+      playerName: "Si Woo Kim",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_37455.jpg",
       tournamentName: "Sony Open in Hawaii",
       result: 18592,
     },
@@ -190,6 +267,13 @@ export const history = {
       tournamentName: "Sony Open in Hawaii",
       result: 153135,
     },
+    {
+      playerName: "Chris Kirk",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_30926.jpg",
+      tournamentName: "The American Express",
+      result: 0,
+    },
   ],
   adamgriff: [
     {
@@ -205,6 +289,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34098.jpg",
       tournamentName: "Sony Open in Hawaii",
       result: 373500,
+    },
+    {
+      playerName: "JT Poston",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_49771.jpg",
+      tournamentName: "The American Express",
+      result: 0,
     },
   ],
   davidgriff: [
@@ -222,6 +313,13 @@ export const history = {
       tournamentName: "Sony Open in Hawaii",
       result: 106102,
     },
+    {
+      playerName: "Adam Hadwin",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_33399.jpg",
+      tournamentName: "The American Express",
+      result: 0,
+    },
   ],
   simongrammer: [
     {
@@ -237,6 +335,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34098.jpg",
       tournamentName: "Sony Open in Hawaii",
       result: 373500,
+    },
+    {
+      playerName: "Jason Day",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28089.jpg",
+      tournamentName: "The American Express",
+      result: 0,
     },
   ],
   tygreenberg: [
@@ -254,6 +359,13 @@ export const history = {
       tournamentName: "Sony Open in Hawaii",
       result: 18592,
     },
+    {
+      playerName: "Sam Burns",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_47504.jpg",
+      tournamentName: "The American Express",
+      result: 0,
+    },
   ],
   fletcherblakely: [
     {
@@ -269,6 +381,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39997.jpg",
       tournamentName: "Sony Open in Hawaii",
       result: 18592,
+    },
+    {
+      playerName: "JT Poston",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_49771.jpg",
+      tournamentName: "The American Express",
+      result: 0,
     },
   ],
   harrywood: [
@@ -286,6 +405,13 @@ export const history = {
       tournamentName: "Sony Open in Hawaii",
       result: 18592,
     },
+    {
+      playerName: "Justin Thomas",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:FFFFFF,d_stub:default_avatar_light.png/headshots_33448.jpg",
+      tournamentName: "The American Express",
+      result: 0,
+    },
   ],
   aarongotkin: [
     {
@@ -301,6 +427,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34363.jpg",
       tournamentName: "Sony Open in Hawaii",
       result: 153135,
+    },
+    {
+      playerName: "Shane Lowry",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_33204.jpg",
+      tournamentName: "The American Express",
+      result: 0,
     },
   ],
   spencersnow: [
@@ -318,6 +451,13 @@ export const history = {
       tournamentName: "Sony Open in Hawaii",
       result: 738700,
     },
+    {
+      playerName: "Sungjae Im",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
+      tournamentName: "The American Express",
+      result: 0,
+    },
   ],
   jonahgutmann: [
     {
@@ -333,6 +473,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_32839.jpg",
       tournamentName: "Sony Open in Hawaii",
       result: 40001,
+    },
+    {
+      playerName: "Matthieu Pavon",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_48153.jpg",
+      tournamentName: "The American Express",
+      result: 0,
     },
   ],
 };
