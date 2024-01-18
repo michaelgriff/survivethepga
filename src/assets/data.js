@@ -133,7 +133,7 @@ export const history = {
       playerName: "Taylor Pendrith",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_40250.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "The American Express",
       result: 0,
     },
   ],
@@ -248,8 +248,8 @@ export const history = {
       playerName: "Si Woo Kim",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_37455.jpg",
-      tournamentName: "Sony Open in Hawaii",
-      result: 18592,
+      tournamentName: "The American Express",
+      result: 0,
     },
   ],
   ryanschwartz: [
