@@ -42,7 +42,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_51766.jpg",
       tournamentName: "The American Express",
-      result: 0,
+      result: 34020,
     },
   ],
   mattholland: [
@@ -65,7 +65,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
       tournamentName: "The American Express",
-      result: 0,
+      result: 63980,
     },
   ],
   jakegreenberg: [
@@ -88,7 +88,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
       tournamentName: "The American Express",
-      result: 0,
+      result: 63980,
     },
   ],
   dustinpulver: [
@@ -111,7 +111,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
       tournamentName: "The American Express",
-      result: 0,
+      result: 63980,
     },
   ],
   jackbleiweis: [
@@ -157,7 +157,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
       tournamentName: "The American Express",
-      result: 0,
+      result: 63980,
     },
   ],
   chasebergman: [
@@ -180,7 +180,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_37378.jpg",
       tournamentName: "The American Express",
-      result: 0,
+      result: 99120,
     },
   ],
   coletishler: [
@@ -203,7 +203,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:FFFFFF,d_stub:default_avatar_light.png/headshots_33448.jpg",
       tournamentName: "The American Express",
-      result: 0,
+      result: 635600,
     },
   ],
   deansacoransky: [
@@ -226,7 +226,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_37378.jpg",
       tournamentName: "The American Express",
-      result: 0,
+      result: 99120,
     },
   ],
   maxwiseman: [
@@ -249,7 +249,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_37455.jpg",
       tournamentName: "The American Express",
-      result: 0,
+      result: 63980,
     },
   ],
   ryanschwartz: [
@@ -272,7 +272,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_30926.jpg",
       tournamentName: "The American Express",
-      result: 0,
+      result: 23705,
     },
   ],
   adamgriff: [
@@ -295,7 +295,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_49771.jpg",
       tournamentName: "The American Express",
-      result: 0,
+      result: 212100,
     },
   ],
   davidgriff: [
@@ -318,7 +318,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_33399.jpg",
       tournamentName: "The American Express",
-      result: 0,
+      result: 310800,
     },
   ],
   simongrammer: [
@@ -341,7 +341,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28089.jpg",
       tournamentName: "The American Express",
-      result: 0,
+      result: 45780,
     },
   ],
   tygreenberg: [
@@ -364,7 +364,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_47504.jpg",
       tournamentName: "The American Express",
-      result: 0,
+      result: 310800,
     },
   ],
   fletcherblakely: [
@@ -387,7 +387,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_49771.jpg",
       tournamentName: "The American Express",
-      result: 0,
+      result: 212100,
     },
   ],
   harrywood: [
@@ -410,7 +410,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:FFFFFF,d_stub:default_avatar_light.png/headshots_33448.jpg",
       tournamentName: "The American Express",
-      result: 0,
+      result: 635600,
     },
   ],
   aarongotkin: [
@@ -456,7 +456,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
       tournamentName: "The American Express",
-      result: 0,
+      result: 63980,
     },
   ],
   jonahgutmann: [
@@ -478,6 +478,29 @@ export const history = {
       playerName: "Matthieu Pavon",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_48153.jpg",
+      tournamentName: "The American Express",
+      result: 34020,
+    },
+  ],
+  benstarkman: [
+    {
+      playerName: "Vincent Norrman",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_51070.jpg",
+      tournamentName: "The Sentry",
+      result: 50000,
+    },
+    {
+      playerName: "Joe Highsmith",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_60067.jpg",
+      tournamentName: "Sony Open in Hawaii",
+      result: 0,
+    },
+    {
+      playerName: "Tyson Alexander",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_33408.jpg",
       tournamentName: "The American Express",
       result: 0,
     },
@@ -653,6 +676,15 @@ export const users = [
     ),
     color: "#A5EF16",
   },
+  {
+    name: "benstarkman",
+    number: history["benstarkman"].reduce(
+      (partialSum, a) => partialSum + a.result,
+      0
+    ),
+    color: "#30471F",
+  },
+
   // Add more users as needed
 ];
 
@@ -849,6 +881,15 @@ export const currentPicks = [
     playerPhoto:
       history["jonahgutmann"][history["jonahgutmann"].length - 1].playerPhoto,
     color: "#A5EF16",
+    isCurrent: true,
+  },
+  {
+    name: "benstarkman",
+    playerName:
+      history["benstarkman"][history["benstarkman"].length - 1].playerName,
+    playerPhoto:
+      history["benstarkman"][history["benstarkman"].length - 1].playerPhoto,
+    color: "#30471F",
     isCurrent: true,
   },
 ];
