@@ -21,6 +21,13 @@ export const history = {
       tournamentName: "The American Express",
       result: 0,
     },
+    {
+      playerName: "Xander Schauffele",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_48081.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
   ],
   davidifergan: [
     {
@@ -43,6 +50,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_51766.jpg",
       tournamentName: "The American Express",
       result: 34020,
+    },
+    {
+      playerName: "Collin Morikawa",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_50525.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
     },
   ],
   mattholland: [
@@ -67,6 +81,13 @@ export const history = {
       tournamentName: "The American Express",
       result: 63980,
     },
+    {
+      playerName: "Ludvig Aberg",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_52955.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
   ],
   jakegreenberg: [
     {
@@ -89,6 +110,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
       tournamentName: "The American Express",
       result: 63980,
+    },
+    {
+      playerName: "Jason Day",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28089.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
     },
   ],
   dustinpulver: [
@@ -113,6 +141,13 @@ export const history = {
       tournamentName: "The American Express",
       result: 63980,
     },
+    {
+      playerName: "Tony Finau",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_29725.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
   ],
   jackbleiweis: [
     {
@@ -134,6 +169,13 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_40250.jpg",
       tournamentName: "The American Express",
+      result: 0,
+    },
+    {
+      playerName: "Sungjae Im",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
+      tournamentName: "Farmers Insurance Open",
       result: 0,
     },
   ],
@@ -159,6 +201,13 @@ export const history = {
       tournamentName: "The American Express",
       result: 63980,
     },
+    {
+      playerName: "Collin Morikawa",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_50525.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
   ],
   chasebergman: [
     {
@@ -181,6 +230,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_37378.jpg",
       tournamentName: "The American Express",
       result: 99120,
+    },
+    {
+      playerName: "Ludvig Aberg",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_52955.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
     },
   ],
   coletishler: [
@@ -205,6 +261,13 @@ export const history = {
       tournamentName: "The American Express",
       result: 635600,
     },
+    {
+      playerName: "Sungjae Im",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
   ],
   deansacoransky: [
     {
@@ -227,6 +290,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_37378.jpg",
       tournamentName: "The American Express",
       result: 99120,
+    },
+    {
+      playerName: "Jason Day",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28089.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
     },
   ],
   maxwiseman: [
@@ -251,6 +321,13 @@ export const history = {
       tournamentName: "The American Express",
       result: 63980,
     },
+    {
+      playerName: "Sahith Theegala",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_51634.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
   ],
   ryanschwartz: [
     {
@@ -273,6 +350,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_30926.jpg",
       tournamentName: "The American Express",
       result: 23705,
+    },
+    {
+      playerName: "Xander Schauffele",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_48081.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
     },
   ],
   adamgriff: [
@@ -297,6 +381,13 @@ export const history = {
       tournamentName: "The American Express",
       result: 212100,
     },
+    {
+      playerName: "Jason Day",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28089.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
   ],
   davidgriff: [
     {
@@ -319,6 +410,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_33399.jpg",
       tournamentName: "The American Express",
       result: 310800,
+    },
+    {
+      playerName: "Justin Rose",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_22405.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
     },
   ],
   simongrammer: [
@@ -343,6 +441,13 @@ export const history = {
       tournamentName: "The American Express",
       result: 45780,
     },
+    {
+      playerName: "Tony Finau",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_29725.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
   ],
   tygreenberg: [
     {
@@ -365,6 +470,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_47504.jpg",
       tournamentName: "The American Express",
       result: 310800,
+    },
+    {
+      playerName: "Jason Day",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28089.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
     },
   ],
   fletcherblakely: [
@@ -389,6 +501,13 @@ export const history = {
       tournamentName: "The American Express",
       result: 212100,
     },
+    {
+      playerName: "Eric Cole",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_47591.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
   ],
   harrywood: [
     {
@@ -412,6 +531,13 @@ export const history = {
       tournamentName: "The American Express",
       result: 635600,
     },
+    {
+      playerName: "Jason Day",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28089.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
   ],
   aarongotkin: [
     {
@@ -433,6 +559,13 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_33204.jpg",
       tournamentName: "The American Express",
+      result: 0,
+    },
+    {
+      playerName: "Sungjae Im",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
+      tournamentName: "Farmers Insurance Open",
       result: 0,
     },
   ],
@@ -458,6 +591,13 @@ export const history = {
       tournamentName: "The American Express",
       result: 63980,
     },
+    {
+      playerName: "Tony Finau",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_29725.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
   ],
   jonahgutmann: [
     {
@@ -481,6 +621,13 @@ export const history = {
       tournamentName: "The American Express",
       result: 34020,
     },
+    {
+      playerName: "Min Woo Lee",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_37378.jpg",
+      tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
   ],
   benstarkman: [
     {
@@ -502,6 +649,13 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_33408.jpg",
       tournamentName: "The American Express",
+      result: 0,
+    },
+    {
+      playerName: "Max Homa",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39977.jpg",
+      tournamentName: "Farmers Insurance Open",
       result: 0,
     },
   ],

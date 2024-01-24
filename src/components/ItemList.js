@@ -47,10 +47,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>The American Express</TournamentName>
+          <TournamentName>Farmers Insurance Open</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              PGA West & La Quinta CC • Jan 18-21, 2024
+              Torrey Pines Golf Course• Jan 24-27, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
