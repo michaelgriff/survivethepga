@@ -26,7 +26,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_48081.jpg",
       tournamentName: "Farmers Insurance Open",
-      result: 0,
+      result: 236250,
     },
   ],
   davidifergan: [
@@ -86,7 +86,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_52955.jpg",
       tournamentName: "Farmers Insurance Open",
-      result: 0,
+      result: 236250,
     },
   ],
   jakegreenberg: [
@@ -146,7 +146,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_29725.jpg",
       tournamentName: "Farmers Insurance Open",
-      result: 0,
+      result: 305750,
     },
   ],
   jackbleiweis: [
@@ -236,7 +236,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_52955.jpg",
       tournamentName: "Farmers Insurance Open",
-      result: 0,
+      result: 236250,
     },
   ],
   coletishler: [
@@ -326,7 +326,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_51634.jpg",
       tournamentName: "Farmers Insurance Open",
-      result: 0,
+      result: 19080,
     },
   ],
   ryanschwartz: [
@@ -356,7 +356,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_48081.jpg",
       tournamentName: "Farmers Insurance Open",
-      result: 0,
+      result: 236250,
     },
   ],
   adamgriff: [
@@ -416,7 +416,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_22405.jpg",
       tournamentName: "Farmers Insurance Open",
-      result: 0,
+      result: 20340,
     },
   ],
   simongrammer: [
@@ -446,7 +446,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_29725.jpg",
       tournamentName: "Farmers Insurance Open",
-      result: 0,
+      result: 305750,
     },
   ],
   tygreenberg: [
@@ -596,7 +596,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_29725.jpg",
       tournamentName: "Farmers Insurance Open",
-      result: 0,
+      result: 305750,
     },
   ],
   jonahgutmann: [
@@ -626,7 +626,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_37378.jpg",
       tournamentName: "Farmers Insurance Open",
-      result: 0,
+      result: 28530,
     },
   ],
   benstarkman: [
@@ -656,7 +656,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39977.jpg",
       tournamentName: "Farmers Insurance Open",
-      result: 0,
+      result: 156536,
     },
   ],
 };
