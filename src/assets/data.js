@@ -28,6 +28,13 @@ export const history = {
       tournamentName: "Farmers Insurance Open",
       result: 236250,
     },
+    {
+      playerName: "Justin Thomas",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:FFFFFF,d_stub:default_avatar_light.png/headshots_33448.jpg",
+      tournamentName: "AT&T Pebble Beach",
+      result: 0,
+    },
   ],
   davidifergan: [
     {
@@ -56,6 +63,13 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_50525.jpg",
       tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
+    {
+      playerName: "Matt Fitzpatrick",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_40098.jpg",
+      tournamentName: "AT&T Pebble Beach",
       result: 0,
     },
   ],
@@ -88,6 +102,13 @@ export const history = {
       tournamentName: "Farmers Insurance Open",
       result: 236250,
     },
+    {
+      playerName: "Nicolai Hojgaard",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_52453.jpg",
+      tournamentName: "AT&T Pebble Beach",
+      result: 0,
+    },
   ],
   jakegreenberg: [
     {
@@ -116,6 +137,13 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28089.jpg",
       tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
+    {
+      playerName: "Collin Morikawa",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_50525.jpg",
+      tournamentName: "AT&T Pebble Beach",
       result: 0,
     },
   ],
@@ -148,6 +176,13 @@ export const history = {
       tournamentName: "Farmers Insurance Open",
       result: 305750,
     },
+    {
+      playerName: "Max Homa",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39977.jpg",
+      tournamentName: "AT&T Pebble Beach",
+      result: 0,
+    },
   ],
   jackbleiweis: [
     {
@@ -176,6 +211,13 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
       tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
+    {
+      playerName: "Max Homa",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39977.jpg",
+      tournamentName: "AT&T Pebble Beach",
       result: 0,
     },
   ],
@@ -208,6 +250,13 @@ export const history = {
       tournamentName: "Farmers Insurance Open",
       result: 0,
     },
+    {
+      playerName: "Viktor Hovland",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_46717.jpg",
+      tournamentName: "AT&T Pebble Beach",
+      result: 0,
+    },
   ],
   chasebergman: [
     {
@@ -238,6 +287,13 @@ export const history = {
       tournamentName: "Farmers Insurance Open",
       result: 236250,
     },
+    {
+      playerName: "Patrick Cantlay",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_35450.jpg",
+      tournamentName: "AT&T Pebble Beach",
+      result: 0,
+    },
   ],
   coletishler: [
     {
@@ -266,6 +322,13 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
       tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
+    {
+      playerName: "Xander Schauffele",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_48081.jpg",
+      tournamentName: "AT&T Pebble Beach",
       result: 0,
     },
   ],
@@ -298,6 +361,13 @@ export const history = {
       tournamentName: "Farmers Insurance Open",
       result: 0,
     },
+    {
+      playerName: "Patrick Cantlay",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_35450.jpg",
+      tournamentName: "AT&T Pebble Beach",
+      result: 0,
+    },
   ],
   maxwiseman: [
     {
@@ -327,6 +397,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_51634.jpg",
       tournamentName: "Farmers Insurance Open",
       result: 19080,
+    },
+    {
+      playerName: "Max Homa",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39977.jpg",
+      tournamentName: "AT&T Pebble Beach",
+      result: 0,
     },
   ],
   ryanschwartz: [
@@ -358,6 +435,13 @@ export const history = {
       tournamentName: "Farmers Insurance Open",
       result: 236250,
     },
+    {
+      playerName: "Nick Taylor",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_25493.jpg",
+      tournamentName: "AT&T Pebble Beach",
+      result: 0,
+    },
   ],
   adamgriff: [
     {
@@ -386,6 +470,13 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28089.jpg",
       tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
+    {
+      playerName: "Jordan Spieth",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34046.jpg",
+      tournamentName: "AT&T Pebble Beach",
       result: 0,
     },
   ],
@@ -418,6 +509,13 @@ export const history = {
       tournamentName: "Farmers Insurance Open",
       result: 20340,
     },
+    {
+      playerName: "Xander Schauffele",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_48081.jpg",
+      tournamentName: "AT&T Pebble Beach",
+      result: 0,
+    },
   ],
   simongrammer: [
     {
@@ -448,6 +546,13 @@ export const history = {
       tournamentName: "Farmers Insurance Open",
       result: 305750,
     },
+    {
+      playerName: "Patrick Cantlay",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_35450.jpg",
+      tournamentName: "AT&T Pebble Beach",
+      result: 0,
+    },
   ],
   tygreenberg: [
     {
@@ -476,6 +581,13 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28089.jpg",
       tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
+    {
+      playerName: "Max Homa",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39977.jpg",
+      tournamentName: "AT&T Pebble Beach",
       result: 0,
     },
   ],
@@ -508,6 +620,13 @@ export const history = {
       tournamentName: "Farmers Insurance Open",
       result: 0,
     },
+    {
+      playerName: "Jordan Spieth",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34046.jpg",
+      tournamentName: "AT&T Pebble Beach",
+      result: 0,
+    },
   ],
   harrywood: [
     {
@@ -536,6 +655,13 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28089.jpg",
       tournamentName: "Farmers Insurance Open",
+      result: 0,
+    },
+    {
+      playerName: "Scottie Scheffler",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_46046.jpg",
+      tournamentName: "AT&T Pebble Beach",
       result: 0,
     },
   ],
@@ -568,6 +694,13 @@ export const history = {
       tournamentName: "Farmers Insurance Open",
       result: 0,
     },
+    {
+      playerName: "Matt Fitzpatrick",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_40098.jpg",
+      tournamentName: "AT&T Pebble Beach",
+      result: 0,
+    },
   ],
   spencersnow: [
     {
@@ -597,6 +730,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_29725.jpg",
       tournamentName: "Farmers Insurance Open",
       result: 305750,
+    },
+    {
+      playerName: "Tommy Fleetwood",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_30911.jpg",
+      tournamentName: "AT&T Pebble Beach",
+      result: 0,
     },
   ],
   jonahgutmann: [
@@ -628,6 +768,13 @@ export const history = {
       tournamentName: "Farmers Insurance Open",
       result: 28530,
     },
+    {
+      playerName: "Jordan Spieth",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34046.jpg",
+      tournamentName: "AT&T Pebble Beach",
+      result: 0,
+    },
   ],
   benstarkman: [
     {
@@ -657,6 +804,13 @@ export const history = {
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39977.jpg",
       tournamentName: "Farmers Insurance Open",
       result: 156536,
+    },
+    {
+      playerName: "Collin Morikawa",
+      playerPhoto:
+        "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_50525.jpg",
+      tournamentName: "AT&T Pebble Beach",
+      result: 0,
     },
   ],
 };

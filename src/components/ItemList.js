@@ -47,10 +47,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>Farmers Insurance Open</TournamentName>
+          <TournamentName>AT&T Pebble Beach Pro-Am</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Torrey Pines Golf Course• Jan 24-27, 2024
+              Pebble Beach Golf Links & Spyglass Hill GC • Feb 1-4, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
@@ -70,16 +70,18 @@ const ItemList = ({ data }) => {
                 />
               ))
           : data[0].isCurrent
-          ? data.map((item, index) => (
-              <Item
-                key={index}
-                index={index + 1}
-                name={item.name}
-                playerName={item.playerName}
-                playerPhoto={item.playerPhoto}
-                color={item.color}
-              />
-            ))
+          ? data
+              .sort((a, b) => ("" + a.playerName).localeCompare(b.playerName))
+              .map((item, index) => (
+                <Item
+                  key={index}
+                  index={index + 1}
+                  name={item.name}
+                  playerName={item.playerName}
+                  playerPhoto={item.playerPhoto}
+                  color={item.color}
+                />
+              ))
           : data.map((item, index) => (
               <Item
                 key={index}
