@@ -33,7 +33,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:FFFFFF,d_stub:default_avatar_light.png/headshots_33448.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 642500,
     },
   ],
   davidifergan: [
@@ -70,7 +70,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_40098.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 38250,
     },
   ],
   mattholland: [
@@ -107,7 +107,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_52453.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 106625,
     },
   ],
   jakegreenberg: [
@@ -144,7 +144,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_50525.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 322500,
     },
   ],
   dustinpulver: [
@@ -181,7 +181,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39977.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 35313,
     },
   ],
   jackbleiweis: [
@@ -218,7 +218,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39977.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 35313,
     },
   ],
   michaelgriff: [
@@ -255,7 +255,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_46717.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 38250,
     },
   ],
   chasebergman: [
@@ -292,7 +292,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_35450.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 455000,
     },
   ],
   coletishler: [
@@ -329,7 +329,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_48081.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 42500,
     },
   ],
   deansacoransky: [
@@ -366,7 +366,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_35450.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 455000,
     },
   ],
   maxwiseman: [
@@ -403,7 +403,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39977.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 35313,
     },
   ],
   ryanschwartz: [
@@ -440,7 +440,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_25493.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 33875,
     },
   ],
   adamgriff: [
@@ -477,7 +477,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34046.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 70125,
     },
   ],
   davidgriff: [
@@ -514,7 +514,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_48081.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 42500,
     },
   ],
   simongrammer: [
@@ -551,7 +551,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_35450.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 455000,
     },
   ],
   tygreenberg: [
@@ -588,7 +588,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39977.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 35313,
     },
   ],
   fletcherblakely: [
@@ -625,7 +625,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34046.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 70125,
     },
   ],
   harrywood: [
@@ -662,7 +662,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_46046.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 642500,
     },
   ],
   aarongotkin: [
@@ -699,7 +699,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_40098.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 38250,
     },
   ],
   spencersnow: [
@@ -736,7 +736,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_30911.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 106625,
     },
   ],
   jonahgutmann: [
@@ -773,7 +773,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34046.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 70125,
     },
   ],
   benstarkman: [
@@ -810,7 +810,7 @@ export const history = {
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_50525.jpg",
       tournamentName: "AT&T Pebble Beach",
-      result: 0,
+      result: 322500,
     },
   ],
 };
