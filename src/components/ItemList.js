@@ -47,10 +47,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>AT&T Pebble Beach Pro-Am</TournamentName>
+          <TournamentName>WM Phoenix Open</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Pebble Beach Golf Links & Spyglass Hill GC • Feb 1-4, 2024
+              TPC Scottsdale • Feb 8-11, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
