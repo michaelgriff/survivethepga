@@ -242,7 +242,7 @@ export const history = {
     {
       ...players.scheffler,
       ...tournaments.six,
-      result: 0,
+      result: 519200,
     },
   ],
   davidifergan: [
@@ -284,7 +284,7 @@ export const history = {
     {
       ...players.theegala,
       ...tournaments.six,
-      result: 0,
+      result: 360800,
     },
   ],
   mattholland: [
@@ -326,7 +326,7 @@ export const history = {
     {
       ...players.thomas,
       ...tournaments.six,
-      result: 0,
+      result: 187000,
     },
   ],
   jakegreenberg: [
@@ -368,7 +368,7 @@ export const history = {
     {
       ...players.thomas,
       ...tournaments.six,
-      result: 0,
+      result: 187000,
     },
   ],
   dustinpulver: [
@@ -410,7 +410,7 @@ export const history = {
     {
       ...players.theegala,
       ...tournaments.six,
-      result: 0,
+      result: 360800,
     },
   ],
   jackbleiweis: [
@@ -452,7 +452,7 @@ export const history = {
     {
       ...players.lee,
       ...tournaments.six,
-      result: 0,
+      result: 17776,
     },
   ],
   michaelgriff: [
@@ -494,7 +494,7 @@ export const history = {
     {
       ...players.an,
       ...tournaments.six,
-      result: 0,
+      result: 18392,
     },
   ],
   chasebergman: [
@@ -536,7 +536,7 @@ export const history = {
     {
       ...players.theegala,
       ...tournaments.six,
-      result: 0,
+      result: 360800,
     },
   ],
   coletishler: [
@@ -620,7 +620,7 @@ export const history = {
     {
       ...players.detry,
       ...tournaments.six,
-      result: 0,
+      result: 53000,
     },
   ],
   maxwiseman: [
@@ -662,7 +662,7 @@ export const history = {
     {
       ...players.thomas,
       ...tournaments.six,
-      result: 0,
+      result: 187000,
     },
   ],
   ryanschwartz: [
@@ -704,7 +704,7 @@ export const history = {
     {
       ...players.detry,
       ...tournaments.six,
-      result: 0,
+      result: 53000,
     },
   ],
   adamgriff: [
@@ -746,7 +746,7 @@ export const history = {
     {
       ...players.im,
       ...tournaments.six,
-      result: 0,
+      result: 18392,
     },
   ],
   davidgriff: [
@@ -788,7 +788,7 @@ export const history = {
     {
       ...players.lowry,
       ...tournaments.six,
-      result: 0,
+      result: 19448,
     },
   ],
   simongrammer: [
@@ -830,7 +830,7 @@ export const history = {
     {
       ...players.cole,
       ...tournaments.six,
-      result: 0,
+      result: 22396,
     },
   ],
   tygreenberg: [
@@ -872,7 +872,7 @@ export const history = {
     {
       ...players.thomas,
       ...tournaments.six,
-      result: 0,
+      result: 187000,
     },
   ],
   fletcherblakely: [
@@ -914,7 +914,7 @@ export const history = {
     {
       ...players.theegala,
       ...tournaments.six,
-      result: 0,
+      result: 360800,
     },
   ],
   harrywood: [
@@ -998,7 +998,7 @@ export const history = {
     {
       ...players.detry,
       ...tournaments.six,
-      result: 0,
+      result: 53000,
     },
   ],
   spencersnow: [
@@ -1040,7 +1040,7 @@ export const history = {
     {
       ...players.thomas,
       ...tournaments.six,
-      result: 0,
+      result: 187000,
     },
   ],
   jonahgutmann: [
@@ -1082,7 +1082,7 @@ export const history = {
     {
       ...players.burns,
       ...tournaments.six,
-      result: 0,
+      result: 519200,
     },
   ],
   benstarkman: [
