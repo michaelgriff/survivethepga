@@ -194,11 +194,29 @@ const players = {
     playerPhoto:
       "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_33653.jpg",
   },
+  mcilroy: {
+    playerName: "Rory McIlroy",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28237.jpg",
+  },
+  zalatoris: {
+    playerName: "Will Zalatoris",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_47483.jpg",
+  },
+  scott: {
+    playerName: "Adam Scott",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_24502.jpg",
+  },
 };
 
 const tournaments = {
   six: {
     tournamentName: "WM Phoenix Open",
+  },
+  seven: {
+    tournamentName: "The Genesis Invitational",
   },
 };
 
@@ -244,6 +262,11 @@ export const history = {
       ...tournaments.six,
       result: 519200,
     },
+    {
+      ...players.cantlay,
+      ...tournaments.seven,
+      result: 0,
+    },
   ],
   davidifergan: [
     {
@@ -285,6 +308,11 @@ export const history = {
       ...players.theegala,
       ...tournaments.six,
       result: 360800,
+    },
+    {
+      ...players.thomas,
+      ...tournaments.seven,
+      result: 0,
     },
   ],
   mattholland: [
@@ -328,6 +356,11 @@ export const history = {
       ...tournaments.six,
       result: 187000,
     },
+    {
+      ...players.scheffler,
+      ...tournaments.seven,
+      result: 0,
+    },
   ],
   jakegreenberg: [
     {
@@ -369,6 +402,11 @@ export const history = {
       ...players.thomas,
       ...tournaments.six,
       result: 187000,
+    },
+    {
+      ...players.mcilroy,
+      ...tournaments.seven,
+      result: 0,
     },
   ],
   dustinpulver: [
@@ -412,6 +450,11 @@ export const history = {
       ...tournaments.six,
       result: 360800,
     },
+    {
+      ...players.fitzpatrick,
+      ...tournaments.seven,
+      result: 0,
+    },
   ],
   jackbleiweis: [
     {
@@ -453,6 +496,11 @@ export const history = {
       ...players.lee,
       ...tournaments.six,
       result: 17776,
+    },
+    {
+      ...players.scheffler,
+      ...tournaments.seven,
+      result: 0,
     },
   ],
   michaelgriff: [
@@ -496,6 +544,11 @@ export const history = {
       ...tournaments.six,
       result: 18392,
     },
+    {
+      ...players.scott,
+      ...tournaments.seven,
+      result: 0,
+    },
   ],
   chasebergman: [
     {
@@ -538,6 +591,11 @@ export const history = {
       ...tournaments.six,
       result: 360800,
     },
+    {
+      ...players.homa,
+      ...tournaments.seven,
+      result: 0,
+    },
   ],
   coletishler: [
     {
@@ -578,6 +636,11 @@ export const history = {
     {
       ...players.fowler,
       ...tournaments.six,
+      result: 0,
+    },
+    {
+      ...players.burns,
+      ...tournaments.seven,
       result: 0,
     },
   ],
@@ -622,6 +685,11 @@ export const history = {
       ...tournaments.six,
       result: 53000,
     },
+    {
+      ...players.scheffler,
+      ...tournaments.seven,
+      result: 0,
+    },
   ],
   maxwiseman: [
     {
@@ -663,6 +731,11 @@ export const history = {
       ...players.thomas,
       ...tournaments.six,
       result: 187000,
+    },
+    {
+      ...players.mcilroy,
+      ...tournaments.seven,
+      result: 0,
     },
   ],
   ryanschwartz: [
@@ -706,6 +779,11 @@ export const history = {
       ...tournaments.six,
       result: 53000,
     },
+    {
+      ...players.zalatoris,
+      ...tournaments.seven,
+      result: 0,
+    },
   ],
   adamgriff: [
     {
@@ -747,6 +825,11 @@ export const history = {
       ...players.im,
       ...tournaments.six,
       result: 18392,
+    },
+    {
+      ...players.morikawa,
+      ...tournaments.seven,
+      result: 0,
     },
   ],
   davidgriff: [
@@ -790,6 +873,11 @@ export const history = {
       ...tournaments.six,
       result: 19448,
     },
+    {
+      ...players.scheffler,
+      ...tournaments.seven,
+      result: 0,
+    },
   ],
   simongrammer: [
     {
@@ -831,6 +919,11 @@ export const history = {
       ...players.cole,
       ...tournaments.six,
       result: 22396,
+    },
+    {
+      ...players.morikawa,
+      ...tournaments.seven,
+      result: 0,
     },
   ],
   tygreenberg: [
@@ -874,6 +967,11 @@ export const history = {
       ...tournaments.six,
       result: 187000,
     },
+    {
+      ...players.morikawa,
+      ...tournaments.seven,
+      result: 0,
+    },
   ],
   fletcherblakely: [
     {
@@ -916,6 +1014,11 @@ export const history = {
       ...tournaments.six,
       result: 360800,
     },
+    {
+      ...players.cantlay,
+      ...tournaments.seven,
+      result: 0,
+    },
   ],
   harrywood: [
     {
@@ -956,6 +1059,11 @@ export const history = {
     {
       ...players.homa,
       ...tournaments.six,
+      result: 0,
+    },
+    {
+      ...players.fitzpatrick,
+      ...tournaments.seven,
       result: 0,
     },
   ],
@@ -1000,6 +1108,11 @@ export const history = {
       ...tournaments.six,
       result: 53000,
     },
+    {
+      ...players.hovland,
+      ...tournaments.seven,
+      result: 0,
+    },
   ],
   spencersnow: [
     {
@@ -1041,6 +1154,11 @@ export const history = {
       ...players.thomas,
       ...tournaments.six,
       result: 187000,
+    },
+    {
+      ...players.morikawa,
+      ...tournaments.seven,
+      result: 0,
     },
   ],
   jonahgutmann: [
@@ -1084,6 +1202,11 @@ export const history = {
       ...tournaments.six,
       result: 519200,
     },
+    {
+      ...players.hojgaard,
+      ...tournaments.seven,
+      result: 0,
+    },
   ],
   benstarkman: [
     {
@@ -1124,6 +1247,11 @@ export const history = {
     {
       ...players.fowler,
       ...tournaments.six,
+      result: 0,
+    },
+    {
+      ...players.clark,
+      ...tournaments.seven,
       result: 0,
     },
   ],

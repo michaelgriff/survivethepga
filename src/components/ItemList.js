@@ -47,10 +47,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>WM Phoenix Open</TournamentName>
+          <TournamentName>The Genesis Invitational</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              TPC Scottsdale • Feb 8-11, 2024
+              Riviera CC • Feb 15-18, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
