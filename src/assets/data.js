@@ -220,7 +220,7 @@ const players = {
       "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39546.jpg",
   },
   champ: {
-    playerName: "Keith Mitchell",
+    playerName: "Cameron Champ",
     playerPhoto:
       "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_52372.jpg",
   },
@@ -235,7 +235,7 @@ const players = {
       "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_51287.jpg",
   },
   grillo: {
-    playerName: "Emilliano Grillo",
+    playerName: "Emiliano Grillo",
     playerPhoto:
       "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_31646.jpg",
   },
