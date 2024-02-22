@@ -47,10 +47,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>The Genesis Invitational</TournamentName>
+          <TournamentName>The Mexico Open</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Riviera CC • Feb 15-18, 2024
+              Vidanta Vallarta • Feb 22-25, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>

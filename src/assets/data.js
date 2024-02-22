@@ -209,6 +209,41 @@ const players = {
     playerPhoto:
       "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_24502.jpg",
   },
+  jaeger: {
+    playerName: "Stephan Jaeger",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_36799.jpg",
+  },
+  mitchell: {
+    playerName: "Keith Mitchell",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39546.jpg",
+  },
+  champ: {
+    playerName: "Keith Mitchell",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_52372.jpg",
+  },
+  knapp: {
+    playerName: "Jake Knapp",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_47420.jpg",
+  },
+  hoshino: {
+    playerName: "Rikuya Hoshino",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_51287.jpg",
+  },
+  grillo: {
+    playerName: "Emilliano Grillo",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_31646.jpg",
+  },
+  bjork: {
+    playerName: "Alexander Bjork",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34310.jpg",
+  },
 };
 
 const tournaments = {
@@ -217,6 +252,9 @@ const tournaments = {
   },
   seven: {
     tournamentName: "The Genesis Invitational",
+  },
+  eight: {
+    tournamentName: "The Mexico Open",
   },
 };
 
@@ -267,6 +305,11 @@ export const history = {
       ...tournaments.seven,
       result: 866667,
     },
+    {
+      ...players.detry,
+      ...tournaments.eight,
+      result: 0,
+    },
   ],
   davidifergan: [
     {
@@ -312,6 +355,11 @@ export const history = {
     {
       ...players.thomas,
       ...tournaments.seven,
+      result: 0,
+    },
+    {
+      ...players.hojgaard,
+      ...tournaments.eight,
       result: 0,
     },
   ],
@@ -361,6 +409,11 @@ export const history = {
       ...tournaments.seven,
       result: 455000,
     },
+    {
+      ...players.hojgaard,
+      ...tournaments.eight,
+      result: 0,
+    },
   ],
   jakegreenberg: [
     {
@@ -408,6 +461,11 @@ export const history = {
       ...tournaments.seven,
       result: 164857,
     },
+    {
+      ...players.knapp,
+      ...tournaments.eight,
+      result: 0,
+    },
   ],
   dustinpulver: [
     {
@@ -453,6 +511,11 @@ export const history = {
     {
       ...players.fitzpatrick,
       ...tournaments.seven,
+      result: 0,
+    },
+    {
+      ...players.mitchell,
+      ...tournaments.eight,
       result: 0,
     },
   ],
@@ -502,6 +565,11 @@ export const history = {
       ...tournaments.seven,
       result: 455000,
     },
+    {
+      ...players.bjork,
+      ...tournaments.eight,
+      result: 0,
+    },
   ],
   michaelgriff: [
     {
@@ -548,6 +616,11 @@ export const history = {
       ...players.scott,
       ...tournaments.seven,
       result: 251400,
+    },
+    {
+      ...players.knapp,
+      ...tournaments.eight,
+      result: 0,
     },
   ],
   chasebergman: [
@@ -596,6 +669,11 @@ export const history = {
       ...tournaments.seven,
       result: 329000,
     },
+    {
+      ...players.finau,
+      ...tournaments.eight,
+      result: 0,
+    },
   ],
   coletishler: [
     {
@@ -642,6 +720,11 @@ export const history = {
       ...players.burns,
       ...tournaments.seven,
       result: 455000,
+    },
+    {
+      ...players.hojgaard,
+      ...tournaments.eight,
+      result: 0,
     },
   ],
   deansacoransky: [
@@ -690,6 +773,11 @@ export const history = {
       ...tournaments.seven,
       result: 455000,
     },
+    {
+      ...players.finau,
+      ...tournaments.eight,
+      result: 0,
+    },
   ],
   maxwiseman: [
     {
@@ -736,6 +824,11 @@ export const history = {
       ...players.mcilroy,
       ...tournaments.seven,
       result: 164857,
+    },
+    {
+      ...players.finau,
+      ...tournaments.eight,
+      result: 0,
     },
   ],
   ryanschwartz: [
@@ -784,6 +877,11 @@ export const history = {
       ...tournaments.seven,
       result: 1800000,
     },
+    {
+      ...players.mitchell,
+      ...tournaments.eight,
+      result: 0,
+    },
   ],
   adamgriff: [
     {
@@ -830,6 +928,11 @@ export const history = {
       ...players.morikawa,
       ...tournaments.seven,
       result: 251400,
+    },
+    {
+      ...players.grillo,
+      ...tournaments.eight,
+      result: 0,
     },
   ],
   davidgriff: [
@@ -878,6 +981,11 @@ export const history = {
       ...tournaments.seven,
       result: 455000,
     },
+    {
+      ...players.finau,
+      ...tournaments.eight,
+      result: 0,
+    },
   ],
   simongrammer: [
     {
@@ -924,6 +1032,11 @@ export const history = {
       ...players.morikawa,
       ...tournaments.seven,
       result: 251400,
+    },
+    {
+      ...players.detry,
+      ...tournaments.eight,
+      result: 0,
     },
   ],
   tygreenberg: [
@@ -972,6 +1085,11 @@ export const history = {
       ...tournaments.seven,
       result: 251400,
     },
+    {
+      ...players.finau,
+      ...tournaments.eight,
+      result: 0,
+    },
   ],
   fletcherblakely: [
     {
@@ -1019,6 +1137,11 @@ export const history = {
       ...tournaments.seven,
       result: 866667,
     },
+    {
+      ...players.detry,
+      ...tournaments.eight,
+      result: 0,
+    },
   ],
   harrywood: [
     {
@@ -1064,6 +1187,11 @@ export const history = {
     {
       ...players.fitzpatrick,
       ...tournaments.seven,
+      result: 0,
+    },
+    {
+      ...players.finau,
+      ...tournaments.eight,
       result: 0,
     },
   ],
@@ -1113,6 +1241,11 @@ export const history = {
       ...tournaments.seven,
       result: 251400,
     },
+    {
+      ...players.hoshino,
+      ...tournaments.eight,
+      result: 0,
+    },
   ],
   spencersnow: [
     {
@@ -1159,6 +1292,11 @@ export const history = {
       ...players.morikawa,
       ...tournaments.seven,
       result: 251400,
+    },
+    {
+      ...players.jaeger,
+      ...tournaments.eight,
+      result: 0,
     },
   ],
   jonahgutmann: [
@@ -1207,6 +1345,11 @@ export const history = {
       ...tournaments.seven,
       result: 82000,
     },
+    {
+      ...players.pendrith,
+      ...tournaments.eight,
+      result: 0,
+    },
   ],
   benstarkman: [
     {
@@ -1252,6 +1395,11 @@ export const history = {
     {
       ...players.clark,
       ...tournaments.seven,
+      result: 0,
+    },
+    {
+      ...players.champ,
+      ...tournaments.eight,
       result: 0,
     },
   ],
