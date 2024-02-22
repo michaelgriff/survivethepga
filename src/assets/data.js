@@ -410,7 +410,7 @@ export const history = {
       result: 455000,
     },
     {
-      ...players.hojgaard,
+      ...players.finau,
       ...tournaments.eight,
       result: 0,
     },
