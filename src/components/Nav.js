@@ -3,6 +3,7 @@ import styled from "styled-components";
 import ItemList from "./ItemList";
 import { users, currentPicks, history } from "../assets/data"; // Import your data file
 import Dropdown from "./Dropdown";
+import PlayerSearch from "./PlayerSearch";
 
 const ButtonGroupWrapper = styled.div`
   font-family: Kanit;
@@ -68,6 +69,12 @@ function ButtonGroup() {
         >
           History
         </Button>
+        <Button
+          onClick={() => handleButtonClick("componentD")}
+          active={activeButton === "componentD"}
+        >
+          Players
+        </Button>
       </ButtonGroupWrapper>
 
       {/* Render the active component based on the button click */}
@@ -85,6 +92,7 @@ function ButtonGroup() {
           <ItemList data={history[selectedOption.name]} />
         </>
       )}
+      {activeButton === "componentD" && <PlayerSearch />}
     </div>
   );
 }
