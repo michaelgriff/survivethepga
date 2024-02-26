@@ -360,7 +360,7 @@ export const history = {
     {
       ...players.hojgaard,
       ...tournaments.eight,
-      result: 0,
+      result: 19467,
     },
   ],
   mattholland: [
@@ -412,7 +412,7 @@ export const history = {
     {
       ...players.finau,
       ...tournaments.eight,
-      result: 0,
+      result: 145125,
     },
   ],
   jakegreenberg: [
@@ -464,7 +464,7 @@ export const history = {
     {
       ...players.knapp,
       ...tournaments.eight,
-      result: 0,
+      result: 1458000,
     },
   ],
   dustinpulver: [
@@ -516,7 +516,7 @@ export const history = {
     {
       ...players.mitchell,
       ...tournaments.eight,
-      result: 0,
+      result: 99549,
     },
   ],
   jackbleiweis: [
@@ -620,7 +620,7 @@ export const history = {
     {
       ...players.knapp,
       ...tournaments.eight,
-      result: 0,
+      result: 1458000,
     },
   ],
   chasebergman: [
@@ -672,7 +672,7 @@ export const history = {
     {
       ...players.finau,
       ...tournaments.eight,
-      result: 0,
+      result: 145125,
     },
   ],
   coletishler: [
@@ -724,7 +724,7 @@ export const history = {
     {
       ...players.hojgaard,
       ...tournaments.eight,
-      result: 0,
+      result: 19467,
     },
   ],
   deansacoransky: [
@@ -776,7 +776,7 @@ export const history = {
     {
       ...players.finau,
       ...tournaments.eight,
-      result: 0,
+      result: 145125,
     },
   ],
   maxwiseman: [
@@ -828,7 +828,7 @@ export const history = {
     {
       ...players.finau,
       ...tournaments.eight,
-      result: 0,
+      result: 145125,
     },
   ],
   ryanschwartz: [
@@ -880,7 +880,7 @@ export const history = {
     {
       ...players.mitchell,
       ...tournaments.eight,
-      result: 0,
+      result: 99549,
     },
   ],
   adamgriff: [
@@ -932,7 +932,7 @@ export const history = {
     {
       ...players.grillo,
       ...tournaments.eight,
-      result: 0,
+      result: 44145,
     },
   ],
   davidgriff: [
@@ -984,7 +984,7 @@ export const history = {
     {
       ...players.finau,
       ...tournaments.eight,
-      result: 0,
+      result: 145125,
     },
   ],
   simongrammer: [
@@ -1088,7 +1088,7 @@ export const history = {
     {
       ...players.finau,
       ...tournaments.eight,
-      result: 0,
+      result: 145125,
     },
   ],
   fletcherblakely: [
@@ -1192,7 +1192,7 @@ export const history = {
     {
       ...players.finau,
       ...tournaments.eight,
-      result: 0,
+      result: 145125,
     },
   ],
   aarongotkin: [
@@ -1296,7 +1296,7 @@ export const history = {
     {
       ...players.jaeger,
       ...tournaments.eight,
-      result: 0,
+      result: 429300,
     },
   ],
   jonahgutmann: [
@@ -1400,7 +1400,7 @@ export const history = {
     {
       ...players.champ,
       ...tournaments.eight,
-      result: 0,
+      result: 61695,
     },
   ],
 };
