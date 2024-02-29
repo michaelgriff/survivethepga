@@ -47,10 +47,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>The Mexico Open</TournamentName>
+          <TournamentName>The Cognizant Classic</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Vidanta Vallarta • Feb 22-25, 2024
+              PGA National • Feb 29-Mar 3, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>

@@ -244,6 +244,36 @@ const players = {
     playerPhoto:
       "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34310.jpg",
   },
+  list: {
+    playerName: "Luke List",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_27129.jpg",
+  },
+  straka: {
+    playerName: "Sepp Straka",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_49960.jpg",
+  },
+  macintyre: {
+    playerName: "Robert MacIntrye",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_52215.jpg",
+  },
+  young: {
+    playerName: "Cameron Young",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_57366.jpg",
+  },
+  bezuidenhout: {
+    playerName: "Christiaan Bezuidenhout",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_45522.jpg",
+  },
+  rasmus: {
+    playerName: "Rasmus Hojgaard",
+    playerPhoto:
+      "https://www.europeantour.com/api/images/image/private/t_et__square_64x64-2x/PROD/k8qsevfchedpna7y4sbs",
+  },
 };
 
 const tournaments = {
@@ -255,6 +285,9 @@ const tournaments = {
   },
   eight: {
     tournamentName: "The Mexico Open",
+  },
+  nine: {
+    tournamentName: "The Cognizant Classic",
   },
 };
 
@@ -285,7 +318,7 @@ export const history = {
       playerName: "Xander Schauffele",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_48081.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insur...",
       result: 236250,
     },
     {
@@ -308,6 +341,11 @@ export const history = {
     {
       ...players.detry,
       ...tournaments.eight,
+      result: 0,
+    },
+    {
+      ...players.cole,
+      ...tournaments.nine,
       result: 0,
     },
   ],
@@ -362,6 +400,11 @@ export const history = {
       ...tournaments.eight,
       result: 19467,
     },
+    {
+      ...players.kirk,
+      ...tournaments.nine,
+      result: 0,
+    },
   ],
   mattholland: [
     {
@@ -413,6 +456,11 @@ export const history = {
       ...players.finau,
       ...tournaments.eight,
       result: 145125,
+    },
+    {
+      ...players.lowry,
+      ...tournaments.nine,
+      result: 0,
     },
   ],
   jakegreenberg: [
@@ -466,6 +514,11 @@ export const history = {
       ...tournaments.eight,
       result: 1458000,
     },
+    {
+      ...players.straka,
+      ...tournaments.nine,
+      result: 0,
+    },
   ],
   dustinpulver: [
     {
@@ -518,6 +571,11 @@ export const history = {
       ...tournaments.eight,
       result: 99549,
     },
+    {
+      ...players.bezuidenhout,
+      ...tournaments.nine,
+      result: 0,
+    },
   ],
   jackbleiweis: [
     {
@@ -568,6 +626,11 @@ export const history = {
     {
       ...players.bjork,
       ...tournaments.eight,
+      result: 0,
+    },
+    {
+      ...players.fowler,
+      ...tournaments.nine,
       result: 0,
     },
   ],
@@ -622,6 +685,11 @@ export const history = {
       ...tournaments.eight,
       result: 1458000,
     },
+    {
+      ...players.poston,
+      ...tournaments.nine,
+      result: 0,
+    },
   ],
   chasebergman: [
     {
@@ -673,6 +741,11 @@ export const history = {
       ...players.finau,
       ...tournaments.eight,
       result: 145125,
+    },
+    {
+      ...players.im,
+      ...tournaments.nine,
+      result: 0,
     },
   ],
   coletishler: [
@@ -726,6 +799,11 @@ export const history = {
       ...tournaments.eight,
       result: 19467,
     },
+    {
+      ...players.poston,
+      ...tournaments.nine,
+      result: 0,
+    },
   ],
   deansacoransky: [
     {
@@ -777,6 +855,11 @@ export const history = {
       ...players.finau,
       ...tournaments.eight,
       result: 145125,
+    },
+    {
+      ...players.jaeger,
+      ...tournaments.nine,
+      result: 0,
     },
   ],
   maxwiseman: [
@@ -830,6 +913,11 @@ export const history = {
       ...tournaments.eight,
       result: 145125,
     },
+    {
+      ...players.list,
+      ...tournaments.nine,
+      result: 0,
+    },
   ],
   ryanschwartz: [
     {
@@ -857,7 +945,7 @@ export const history = {
       playerName: "Xander Schauffele",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_48081.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insur...",
       result: 236250,
     },
     {
@@ -881,6 +969,11 @@ export const history = {
       ...players.mitchell,
       ...tournaments.eight,
       result: 99549,
+    },
+    {
+      ...players.macintyre,
+      ...tournaments.nine,
+      result: 0,
     },
   ],
   adamgriff: [
@@ -934,6 +1027,11 @@ export const history = {
       ...tournaments.eight,
       result: 44145,
     },
+    {
+      ...players.cole,
+      ...tournaments.nine,
+      result: 0,
+    },
   ],
   davidgriff: [
     {
@@ -986,6 +1084,11 @@ export const history = {
       ...tournaments.eight,
       result: 145125,
     },
+    {
+      ...players.straka,
+      ...tournaments.nine,
+      result: 0,
+    },
   ],
   simongrammer: [
     {
@@ -1036,6 +1139,11 @@ export const history = {
     {
       ...players.detry,
       ...tournaments.eight,
+      result: 0,
+    },
+    {
+      ...players.tkim,
+      ...tournaments.nine,
       result: 0,
     },
   ],
@@ -1090,6 +1198,11 @@ export const history = {
       ...tournaments.eight,
       result: 145125,
     },
+    {
+      ...players.henley,
+      ...tournaments.nine,
+      result: 0,
+    },
   ],
   fletcherblakely: [
     {
@@ -1140,6 +1253,11 @@ export const history = {
     {
       ...players.detry,
       ...tournaments.eight,
+      result: 0,
+    },
+    {
+      ...players.young,
+      ...tournaments.nine,
       result: 0,
     },
   ],
@@ -1194,6 +1312,11 @@ export const history = {
       ...tournaments.eight,
       result: 145125,
     },
+    {
+      ...players.rasmus,
+      ...tournaments.nine,
+      result: 0,
+    },
   ],
   aarongotkin: [
     {
@@ -1244,6 +1367,11 @@ export const history = {
     {
       ...players.hoshino,
       ...tournaments.eight,
+      result: 0,
+    },
+    {
+      ...players.lee,
+      ...tournaments.nine,
       result: 0,
     },
   ],
@@ -1298,6 +1426,11 @@ export const history = {
       ...tournaments.eight,
       result: 429300,
     },
+    {
+      ...players.cole,
+      ...tournaments.nine,
+      result: 0,
+    },
   ],
   jonahgutmann: [
     {
@@ -1348,6 +1481,11 @@ export const history = {
     {
       ...players.pendrith,
       ...tournaments.eight,
+      result: 0,
+    },
+    {
+      ...players.poston,
+      ...tournaments.nine,
       result: 0,
     },
   ],
@@ -1401,6 +1539,11 @@ export const history = {
       ...players.champ,
       ...tournaments.eight,
       result: 61695,
+    },
+    {
+      ...players.lowry,
+      ...tournaments.nine,
+      result: 0,
     },
   ],
 };
