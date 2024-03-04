@@ -403,7 +403,7 @@ export const history = {
     {
       ...players.kirk,
       ...tournaments.nine,
-      result: 0,
+      result: 61650,
     },
   ],
   mattholland: [
@@ -460,7 +460,7 @@ export const history = {
     {
       ...players.lowry,
       ...tournaments.nine,
-      result: 0,
+      result: 344250,
     },
   ],
   jakegreenberg: [
@@ -631,7 +631,7 @@ export const history = {
     {
       ...players.fowler,
       ...tournaments.nine,
-      result: 0,
+      result: 32580,
     },
   ],
   michaelgriff: [
@@ -688,7 +688,7 @@ export const history = {
     {
       ...players.poston,
       ...tournaments.nine,
-      result: 0,
+      result: 19170,
     },
   ],
   chasebergman: [
@@ -802,7 +802,7 @@ export const history = {
     {
       ...players.poston,
       ...tournaments.nine,
-      result: 0,
+      result: 19170,
     },
   ],
   deansacoransky: [
@@ -973,7 +973,7 @@ export const history = {
     {
       ...players.macintyre,
       ...tournaments.nine,
-      result: 0,
+      result: 20160,
     },
   ],
   adamgriff: [
@@ -1144,7 +1144,7 @@ export const history = {
     {
       ...players.tkim,
       ...tournaments.nine,
-      result: 0,
+      result: 19800,
     },
   ],
   tygreenberg: [
@@ -1201,7 +1201,7 @@ export const history = {
     {
       ...players.henley,
       ...tournaments.nine,
-      result: 0,
+      result: 32580,
     },
   ],
   fletcherblakely: [
@@ -1258,7 +1258,7 @@ export const history = {
     {
       ...players.young,
       ...tournaments.nine,
-      result: 0,
+      result: 344250,
     },
   ],
   harrywood: [
@@ -1372,7 +1372,7 @@ export const history = {
     {
       ...players.lee,
       ...tournaments.nine,
-      result: 0,
+      result: 801000,
     },
   ],
   spencersnow: [
@@ -1486,7 +1486,7 @@ export const history = {
     {
       ...players.poston,
       ...tournaments.nine,
-      result: 0,
+      result: 19170,
     },
   ],
   benstarkman: [
@@ -1543,7 +1543,7 @@ export const history = {
     {
       ...players.lowry,
       ...tournaments.nine,
-      result: 0,
+      result: 344250,
     },
   ],
 };
