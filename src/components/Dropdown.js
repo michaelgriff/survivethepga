@@ -17,7 +17,7 @@ const DropdownMenu = styled.div`
   border-radius: 5px;
   overflow: auto;
   max-height: 150px;
-  width: 200px; /* Set your fixed width */
+  width: 250px; /* Set your fixed width */
   z-index: 1;
 `;
 
@@ -52,7 +52,24 @@ const Name = styled.div`
   }
 `;
 
-const Dropdown = ({ options, selectedOption, setSelectedOption }) => {
+const PlayerPhoto = styled.img`
+  border-radius: 50%;
+  border: none;
+  height: 35px;
+  width: auto;
+  margin-right: ${(props) => (props.margin ? "10px" : "none")};
+
+  @media screen and (max-width: 660px) {
+    height: 30px;
+  }
+`;
+
+const Dropdown = ({ options, selectedOption, setSelectedOption, isSearch }) => {
+  function compareByName(a, b) {
+    const aList = a.name.split(" ");
+    const bList = b.name.split(" ");
+    return aList[aList.length - 1].localeCompare(bList[bList.length - 1]);
+  }
   const [isOpen, setIsOpen] = useState(false);
   const dropdownRef = useRef(null);
 
@@ -82,18 +99,33 @@ const Dropdown = ({ options, selectedOption, setSelectedOption }) => {
   return (
     <DropdownContainer ref={dropdownRef}>
       <DropdownItem onClick={() => setIsOpen(!isOpen)}>
-        <Circle color={selectedOption.color}>
-          {selectedOption ? selectedOption.name.charAt(0).toUpperCase() : null}
-        </Circle>
+        {isSearch ? (
+          <PlayerPhoto
+            src={selectedOption.photo}
+            alt={`${selectedOption.name}`}
+            margin={true}
+          />
+        ) : (
+          <Circle color={selectedOption.color}>
+            {selectedOption
+              ? selectedOption.name.charAt(0).toUpperCase()
+              : null}
+          </Circle>
+        )}
+
         <Name>{selectedOption.name}</Name>
       </DropdownItem>
       {isOpen && (
         <DropdownMenu>
-          {options.map((option, index) => (
+          {options.sort(compareByName).map((option, index) => (
             <DropdownItem key={index} onClick={() => handleItemClick(option)}>
-              <Circle color={option.color}>
-                {option.name.charAt(0).toUpperCase()}
-              </Circle>
+              {isSearch ? (
+                <PlayerPhoto src={option.photo} alt={`${option.name}`} margin />
+              ) : (
+                <Circle color={selectedOption.color}>
+                  {option ? option.name.charAt(0).toUpperCase() : null}
+                </Circle>
+              )}
               <Name>{option.name}</Name>
             </DropdownItem>
           ))}

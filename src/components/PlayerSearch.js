@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import styled from "styled-components";
-import { players } from "../assets/data";
+import { history, users } from "../assets/data";
 
 const SearchBar = styled.input`
   width: 38%; /* Adjust the max-width based on your design */
@@ -63,27 +63,35 @@ const NameContainer = styled.div`
   align-items: center;
 `;
 
-const PlayerSearch = () => {
-  const [search, setSearch] = useState("");
-  const [selection, setSelection] = useState("");
-
+const PlayerSearch = ({ selectedPlayer }) => {
+  const [participants, setParticipants] = useState([]);
+  useEffect(() => {
+    const partArr = [];
+    for (const user of users) {
+      if (
+        history[user.name].some((val) => val.playerName === selectedPlayer.name)
+      ) {
+        partArr.push(user);
+      }
+    }
+    console.log(partArr);
+    setParticipants([...partArr]);
+  }, [selectedPlayer]);
   return (
     <>
-      <SearchBar
-        type="text"
-        placeholder="Search..."
-        value={search}
-        onChange={(e) => setSearch(e.target.value)}
-      />
       <RowContainer>
-        <ItemContainer>
-          <NameContainer>
-            <>
-              <Circle color={"#545454"}>J</Circle>
-              <Name>michaelgriff</Name>
-            </>
-          </NameContainer>
-        </ItemContainer>
+        {participants.map((user) => {
+          return (
+            <ItemContainer>
+              <NameContainer>
+                <>
+                  <Circle color={`${user.color}`}>J</Circle>
+                  <Name>{user.name}</Name>
+                </>
+              </NameContainer>
+            </ItemContainer>
+          );
+        })}
       </RowContainer>
     </>
   );

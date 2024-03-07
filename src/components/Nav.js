@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import ItemList from "./ItemList";
-import { users, currentPicks, history } from "../assets/data"; // Import your data file
+import { users, currentPicks, history, players } from "../assets/data"; // Import your data file
 import Dropdown from "./Dropdown";
 import PlayerSearch from "./PlayerSearch";
 
@@ -42,6 +42,15 @@ function ButtonGroup() {
     users.map((user) => {
       return { name: user.name, color: user.color };
     })[0]
+  );
+  const [selectedPlayer, setSelectedPlayer] = useState(
+    Object.values(players)
+      .sort((a, b) =>
+        a.playerName.split(" ")[1].localeCompare(b.playerName.split(" ")[1])
+      )
+      .map((player) => {
+        return { name: player.playerName, photo: player.playerPhoto };
+      })[0]
   );
 
   const handleButtonClick = (component) => {
@@ -92,7 +101,19 @@ function ButtonGroup() {
           <ItemList data={history[selectedOption.name]} />
         </>
       )}
-      {activeButton === "componentD" && <PlayerSearch />}
+      {activeButton === "componentD" && (
+        <>
+          <Dropdown
+            selectedOption={selectedPlayer}
+            setSelectedOption={setSelectedPlayer}
+            isSearch={true}
+            options={Object.values(players).map((player) => {
+              return { name: player.playerName, photo: player.playerPhoto };
+            })}
+          />
+          <PlayerSearch selectedPlayer={selectedPlayer} />
+        </>
+      )}
     </div>
   );
 }
