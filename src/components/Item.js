@@ -92,7 +92,6 @@ const Item = ({
   tournamentName,
   result,
 }) => {
-  console.log(name);
   return (
     <RowContainer>
       {number ? <Index>{index}</Index> : null}
