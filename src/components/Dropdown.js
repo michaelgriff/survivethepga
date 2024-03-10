@@ -19,6 +19,10 @@ const DropdownMenu = styled.div`
   max-height: 150px;
   width: 250px; /* Set your fixed width */
   z-index: 1;
+
+  @media screen and (max-width: 660px) {
+    width: 210px; /* Set your fixed width */
+  }
 `;
 
 const DropdownItem = styled.div`
@@ -122,7 +126,7 @@ const Dropdown = ({ options, selectedOption, setSelectedOption, isSearch }) => {
               {isSearch ? (
                 <PlayerPhoto src={option.photo} alt={`${option.name}`} margin />
               ) : (
-                <Circle color={selectedOption.color}>
+                <Circle color={option.color}>
                   {option ? option.name.charAt(0).toUpperCase() : null}
                 </Circle>
               )}

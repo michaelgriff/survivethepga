@@ -2,19 +2,6 @@ import React, { useState, useEffect } from "react";
 import styled from "styled-components";
 import { history, users } from "../assets/data";
 
-const SearchBar = styled.input`
-  width: 38%; /* Adjust the max-width based on your design */
-  margin: 0 auto 20px;
-
-  @media screen and (max-width: 660px) {
-    width: 80%;
-  }
-  padding: 8px 12px;
-  border-radius: 6px;
-  border: 2px solid #ccc;
-  font-family: Kanit;
-`;
-
 const Circle = styled.div`
   width: 30px;
   height: 30px;
@@ -43,11 +30,13 @@ const ItemContainer = styled.div`
   padding: 10px;
   margin-bottom: 20px;
   width: 100%;
+  text-align: center;
 `;
 
 const RowContainer = styled.div`
   font-family: Kanit;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   width: 40%; /* Adjust the max-width based on your design */
@@ -63,6 +52,25 @@ const NameContainer = styled.div`
   align-items: center;
 `;
 
+const Number = styled.div`
+  margin-left: 10px;
+
+  @media screen and (max-width: 660px) {
+    font-size: 13px;
+  }
+`;
+
+const PlayerName = styled.div`
+  color: ${(props) => (props.history ? "#000" : "#5c5c5c")};
+  margin-right: ${(props) => (props.noMargin ? "0" : "10px")};
+  margin-top: ${(props) => (props.noMargin ? "1px" : "2px")};
+  font-size: ${(props) => (props.noMargin ? "10px" : "16px")};
+
+  @media screen and (max-width: 660px) {
+    font-size: 10px;
+  }
+`;
+
 const PlayerSearch = ({ selectedPlayer }) => {
   const [participants, setParticipants] = useState([]);
   useEffect(() => {
@@ -71,28 +79,41 @@ const PlayerSearch = ({ selectedPlayer }) => {
       if (
         history[user.name].some((val) => val.playerName === selectedPlayer.name)
       ) {
-        partArr.push(user);
+        const historyObj = history[user.name].filter(
+          (item) => item.playerName === selectedPlayer.name
+        )[0];
+        partArr.push({
+          ...user,
+          ...historyObj,
+        });
       }
     }
-    console.log(partArr);
     setParticipants([...partArr]);
   }, [selectedPlayer]);
   return (
     <>
+      {/* <ItemListContainer> */}
       <RowContainer>
         {participants.map((user) => {
           return (
             <ItemContainer>
               <NameContainer>
                 <>
-                  <Circle color={`${user.color}`}>J</Circle>
+                  <Circle color={`${user.color}`}>
+                    {user.name.charAt(0).toUpperCase()}
+                  </Circle>
                   <Name>{user.name}</Name>
                 </>
+              </NameContainer>
+              <NameContainer>
+                <PlayerName noMargin>{user.tournamentName}</PlayerName>
+                <Number>{user.result.toLocaleString()}</Number>
               </NameContainer>
             </ItemContainer>
           );
         })}
       </RowContainer>
+      {/* </ItemListContainer> */}
     </>
   );
 };

@@ -32,7 +32,7 @@ const Button = styled.div`
   }
 
   @media screen and (max-width: 660px) {
-    font-size: 16px;
+    font-size: 14px;
   }
 `;
 

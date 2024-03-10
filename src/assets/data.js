@@ -291,16 +291,16 @@ const tournaments = {
     tournamentName: "WM Phoenix Open",
   },
   seven: {
-    tournamentName: "The Genesis Invitational",
+    tournamentName: "The Genesis Inv.",
   },
   eight: {
     tournamentName: "The Mexico Open",
   },
   nine: {
-    tournamentName: "The Cognizant Classic",
+    tournamentName: "The Cognizant",
   },
   ten: {
-    tournamentName: "Arnold Palmer Invitational",
+    tournamentName: "Arnold Palmer Inv.",
   },
 };
 
@@ -317,7 +317,7 @@ export const history = {
       playerName: "Brian Harman",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_27644.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 106102,
     },
     {
@@ -379,7 +379,7 @@ export const history = {
       playerName: "Brian Harman",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_27644.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 106102,
     },
     {
@@ -393,7 +393,7 @@ export const history = {
       playerName: "Collin Morikawa",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_50525.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 0,
     },
     {
@@ -441,7 +441,7 @@ export const history = {
       playerName: "Matt Fitzpatrick",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_40098.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 0,
     },
     {
@@ -455,7 +455,7 @@ export const history = {
       playerName: "Ludvig Aberg",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_52955.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 236250,
     },
     {
@@ -503,7 +503,7 @@ export const history = {
       playerName: "Brian Harman",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_27644.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 106102,
     },
     {
@@ -517,7 +517,7 @@ export const history = {
       playerName: "Jason Day",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28089.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 0,
     },
     {
@@ -565,7 +565,7 @@ export const history = {
       playerName: "Brendan Todd",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_30927.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 40001,
     },
     {
@@ -579,7 +579,7 @@ export const history = {
       playerName: "Tony Finau",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_29725.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 305750,
     },
     {
@@ -627,7 +627,7 @@ export const history = {
       playerName: "Matt Fitzpatrick",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_40098.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 0,
     },
     {
@@ -641,7 +641,7 @@ export const history = {
       playerName: "Sungjae Im",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 0,
     },
     {
@@ -689,7 +689,7 @@ export const history = {
       playerName: "Tyrell Hatton",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34363.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 153135,
     },
     {
@@ -703,7 +703,7 @@ export const history = {
       playerName: "Collin Morikawa",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_50525.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 0,
     },
     {
@@ -751,7 +751,7 @@ export const history = {
       playerName: "Justin Suh",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_50493.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 0,
     },
     {
@@ -765,7 +765,7 @@ export const history = {
       playerName: "Ludvig Aberg",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_52955.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 236250,
     },
     {
@@ -813,7 +813,7 @@ export const history = {
       playerName: "Byeong Hun An",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_33948.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 738700,
     },
     {
@@ -827,7 +827,7 @@ export const history = {
       playerName: "Sungjae Im",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 0,
     },
     {
@@ -875,7 +875,7 @@ export const history = {
       playerName: "JT Poston",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_49771.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 300875,
     },
     {
@@ -889,7 +889,7 @@ export const history = {
       playerName: "Jason Day",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28089.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 0,
     },
     {
@@ -937,7 +937,7 @@ export const history = {
       playerName: "Corey Conners",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39997.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 18592,
     },
     {
@@ -951,7 +951,7 @@ export const history = {
       playerName: "Sahith Theegala",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_51634.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 19080,
     },
     {
@@ -999,7 +999,7 @@ export const history = {
       playerName: "Akshay Bhatia",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_56630.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 153135,
     },
     {
@@ -1061,7 +1061,7 @@ export const history = {
       playerName: "Russell Henley",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34098.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 373500,
     },
     {
@@ -1075,7 +1075,7 @@ export const history = {
       playerName: "Jason Day",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28089.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 0,
     },
     {
@@ -1123,7 +1123,7 @@ export const history = {
       playerName: "Brian Harman",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_27644.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 106102,
     },
     {
@@ -1137,7 +1137,7 @@ export const history = {
       playerName: "Justin Rose",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_22405.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 20340,
     },
     {
@@ -1185,7 +1185,7 @@ export const history = {
       playerName: "Russell Henley",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34098.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 373500,
     },
     {
@@ -1199,7 +1199,7 @@ export const history = {
       playerName: "Tony Finau",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_29725.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 305750,
     },
     {
@@ -1247,7 +1247,7 @@ export const history = {
       playerName: "Corey Conners",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39997.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 18592,
     },
     {
@@ -1261,7 +1261,7 @@ export const history = {
       playerName: "Jason Day",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28089.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 0,
     },
     {
@@ -1309,7 +1309,7 @@ export const history = {
       playerName: "Corey Conners",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39997.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 18592,
     },
     {
@@ -1323,7 +1323,7 @@ export const history = {
       playerName: "Eric Cole",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_47591.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 0,
     },
     {
@@ -1371,7 +1371,7 @@ export const history = {
       playerName: "Corey Conners",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39997.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 18592,
     },
     {
@@ -1385,7 +1385,7 @@ export const history = {
       playerName: "Jason Day",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28089.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 0,
     },
     {
@@ -1433,7 +1433,7 @@ export const history = {
       playerName: "Tyrell Hatton",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_34363.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 153135,
     },
     {
@@ -1447,7 +1447,7 @@ export const history = {
       playerName: "Sungjae Im",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39971.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 0,
     },
     {
@@ -1495,7 +1495,7 @@ export const history = {
       playerName: "Byeong Hun An",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_33948.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 738700,
     },
     {
@@ -1509,7 +1509,7 @@ export const history = {
       playerName: "Tony Finau",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_29725.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 305750,
     },
     {
@@ -1557,7 +1557,7 @@ export const history = {
       playerName: "Hideki Matsuyama",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_32839.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 40001,
     },
     {
@@ -1571,7 +1571,7 @@ export const history = {
       playerName: "Min Woo Lee",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_37378.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 28530,
     },
     {
@@ -1619,7 +1619,7 @@ export const history = {
       playerName: "Joe Highsmith",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_60067.jpg",
-      tournamentName: "Sony Open in Hawaii",
+      tournamentName: "Sony Open",
       result: 0,
     },
     {
@@ -1633,7 +1633,7 @@ export const history = {
       playerName: "Max Homa",
       playerPhoto:
         "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39977.jpg",
-      tournamentName: "Farmers Insurance Open",
+      tournamentName: "Farmers Insurance",
       result: 156536,
     },
     {
