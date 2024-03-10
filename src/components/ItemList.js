@@ -42,15 +42,14 @@ const TournamentSubHeadingText = styled.div`
 `;
 
 const ItemList = ({ data }) => {
-  console.log(data[0].number);
   return (
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>The Cognizant Classic</TournamentName>
+          <TournamentName>Arnold Palmer Invitational</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              PGA National • Feb 29-Mar 3, 2024
+              Bay Hill Club and Lodge • Mar 7-10, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
