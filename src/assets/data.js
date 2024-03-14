@@ -1447,7 +1447,7 @@ export const history = {
       result: 123500,
     },
     {
-      ...players.thomas,
+      ...players.schauffele,
       ...tournaments.eleven,
       result: 0,
     },
