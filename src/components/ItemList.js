@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>Arnold Palmer Invitational</TournamentName>
+          <TournamentName>The Players Championship</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Bay Hill Club and Lodge • Mar 7-10, 2024
+              TPC Sawgrass • Mar 14-17, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
