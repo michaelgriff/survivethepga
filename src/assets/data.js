@@ -377,7 +377,7 @@ export const history = {
     {
       ...players.homa,
       ...tournaments.eleven,
-      result: 0,
+      result: 53500,
     },
   ],
   davidifergan: [
@@ -444,7 +444,7 @@ export const history = {
     {
       ...players.schauffele,
       ...tournaments.eleven,
-      result: 0,
+      result: 1891667,
     },
   ],
   mattholland: [
@@ -511,7 +511,7 @@ export const history = {
     {
       ...players.hovland,
       ...tournaments.eleven,
-      result: 0,
+      result: 55000,
     },
   ],
   jakegreenberg: [
@@ -712,7 +712,7 @@ export const history = {
     {
       ...players.morikawa,
       ...tournaments.eleven,
-      result: 0,
+      result: 70063,
     },
   ],
   michaelgriff: [
@@ -779,7 +779,7 @@ export const history = {
     {
       ...players.schauffele,
       ...tournaments.eleven,
-      result: 0,
+      result: 1891667,
     },
   ],
   chasebergman: [
@@ -846,7 +846,7 @@ export const history = {
     {
       ...players.scheffler,
       ...tournaments.eleven,
-      result: 0,
+      result: 4500000,
     },
   ],
   coletishler: [
@@ -913,7 +913,7 @@ export const history = {
     {
       ...players.clark,
       ...tournaments.eleven,
-      result: 0,
+      result: 1891667,
     },
   ],
   deansacoransky: [
@@ -1047,7 +1047,7 @@ export const history = {
     {
       ...players.hovland,
       ...tournaments.eleven,
-      result: 0,
+      result: 55000,
     },
   ],
   ryanschwartz: [
@@ -1114,7 +1114,7 @@ export const history = {
     {
       ...players.lee,
       ...tournaments.eleven,
-      result: 0,
+      result: 57500,
     },
   ],
   adamgriff: [
@@ -1382,7 +1382,7 @@ export const history = {
     {
       ...players.scheffler,
       ...tournaments.eleven,
-      result: 0,
+      result: 4500000,
     },
   ],
   fletcherblakely: [
@@ -1449,7 +1449,7 @@ export const history = {
     {
       ...players.schauffele,
       ...tournaments.eleven,
-      result: 0,
+      result: 1891667,
     },
   ],
   harrywood: [
@@ -1516,7 +1516,7 @@ export const history = {
     {
       ...players.matsuyama,
       ...tournaments.eleven,
-      result: 0,
+      result: 875000,
     },
   ],
   aarongotkin: [
@@ -1583,7 +1583,7 @@ export const history = {
     {
       ...players.scheffler,
       ...tournaments.eleven,
-      result: 0,
+      result: 4500000,
     },
   ],
   spencersnow: [
@@ -1650,7 +1650,7 @@ export const history = {
     {
       ...players.homa,
       ...tournaments.eleven,
-      result: 0,
+      result: 53500,
     },
   ],
   jonahgutmann: [
@@ -1717,7 +1717,7 @@ export const history = {
     {
       ...players.hoge,
       ...tournaments.eleven,
-      result: 0,
+      result: 57500,
     },
   ],
   benstarkman: [
@@ -1784,7 +1784,7 @@ export const history = {
     {
       ...players.day,
       ...tournaments.eleven,
-      result: 0,
+      result: 119286,
     },
   ],
 };
