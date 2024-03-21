@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>The Players Championship</TournamentName>
+          <TournamentName>Valspar Championship</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              TPC Sawgrass • Mar 14-17, 2024
+              Innisbrook Resort • Mar 21-24, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
