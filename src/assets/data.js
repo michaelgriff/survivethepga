@@ -289,6 +289,21 @@ export const players = {
     playerPhoto:
       "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_35532.jpg",
   },
+  ghim: {
+    playerName: "Doug Ghim",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_52375.jpg",
+  },
+  rai: {
+    playerName: "Aaron Rai",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_46414.jpg",
+  },
+  silverman: {
+    playerName: "Ben Silverman",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39327.jpg",
+  },
 };
 
 const tournaments = {
@@ -309,6 +324,9 @@ const tournaments = {
   },
   eleven: {
     tournamentName: "The Players",
+  },
+  twelve : {
+    tournamentName: "Valspar Championship",
   },
 };
 
@@ -379,6 +397,11 @@ export const history = {
       ...tournaments.eleven,
       result: 53500,
     },
+    {
+      ...players.rai,
+      ...tournaments.twelve,
+      result: 0,
+    },
   ],
   davidifergan: [
     {
@@ -445,6 +468,11 @@ export const history = {
       ...players.schauffele,
       ...tournaments.eleven,
       result: 1891667,
+    },
+    {
+      ...players.young,
+      ...tournaments.twelve,
+      result: 0,
     },
   ],
   mattholland: [
@@ -513,6 +541,11 @@ export const history = {
       ...tournaments.eleven,
       result: 55000,
     },
+    {
+      ...players.burns,
+      ...tournaments.twelve,
+      result: 0,
+    },
   ],
   jakegreenberg: [
     {
@@ -578,6 +611,11 @@ export const history = {
     {
       ...players.zalatoris,
       ...tournaments.eleven,
+      result: 0,
+    },
+    {
+      ...players.ghim,
+      ...tournaments.twelve,
       result: 0,
     },
   ],
@@ -647,8 +685,13 @@ export const history = {
       ...tournaments.eleven,
       result: 0,
     },
+    {
+      ...players.cole,
+      ...tournaments.twelve,
+      result: 0,
+    },
   ],
-  jackbleiweis: [
+  benroher: [
     {
       playerName: "Viktor Hovland",
       playerPhoto:
@@ -713,6 +756,11 @@ export const history = {
       ...players.morikawa,
       ...tournaments.eleven,
       result: 70063,
+    },
+    {
+      ...players.im,
+      ...tournaments.twelve,
+      result: 0,
     },
   ],
   michaelgriff: [
@@ -781,6 +829,11 @@ export const history = {
       ...tournaments.eleven,
       result: 1891667,
     },
+    {
+      ...players.ghim,
+      ...tournaments.twelve,
+      result: 0,
+    },
   ],
   chasebergman: [
     {
@@ -847,6 +900,11 @@ export const history = {
       ...players.scheffler,
       ...tournaments.eleven,
       result: 4500000,
+    },
+    {
+      ...players.burns,
+      ...tournaments.twelve,
+      result: 0,
     },
   ],
   coletishler: [
@@ -915,6 +973,11 @@ export const history = {
       ...tournaments.eleven,
       result: 1891667,
     },
+    {
+      ...players.ghim,
+      ...tournaments.twelve,
+      result: 0,
+    },
   ],
   deansacoransky: [
     {
@@ -980,6 +1043,11 @@ export const history = {
     {
       ...players.thomas,
       ...tournaments.eleven,
+      result: 0,
+    },
+    {
+      ...players.taylor,
+      ...tournaments.twelve,
       result: 0,
     },
   ],
@@ -1049,6 +1117,11 @@ export const history = {
       ...tournaments.eleven,
       result: 55000,
     },
+    {
+      ...players.straka,
+      ...tournaments.twelve,
+      result: 0,
+    },
   ],
   ryanschwartz: [
     {
@@ -1116,6 +1189,11 @@ export const history = {
       ...tournaments.eleven,
       result: 57500,
     },
+    {
+      ...players.young,
+      ...tournaments.twelve,
+      result: 0,
+    },
   ],
   adamgriff: [
     {
@@ -1181,6 +1259,11 @@ export const history = {
     {
       ...players.thomas,
       ...tournaments.eleven,
+      result: 0,
+    },
+    {
+      ...players.ghim,
+      ...tournaments.twelve,
       result: 0,
     },
   ],
@@ -1250,6 +1333,11 @@ export const history = {
       ...tournaments.eleven,
       result: 0,
     },
+    {
+      ...players.taylor,
+      ...tournaments.twelve,
+      result: 0,
+    },
   ],
   simongrammer: [
     {
@@ -1315,6 +1403,11 @@ export const history = {
     {
       ...players.thomas,
       ...tournaments.eleven,
+      result: 0,
+    },
+    {
+      ...players.ghim,
+      ...tournaments.twelve,
       result: 0,
     },
   ],
@@ -1384,6 +1477,11 @@ export const history = {
       ...tournaments.eleven,
       result: 4500000,
     },
+    {
+      ...players.ghim,
+      ...tournaments.twelve,
+      result: 0,
+    },
   ],
   fletcherblakely: [
     {
@@ -1450,6 +1548,11 @@ export const history = {
       ...players.schauffele,
       ...tournaments.eleven,
       result: 1891667,
+    },
+    {
+      ...players.im,
+      ...tournaments.twelve,
+      result: 0,
     },
   ],
   harrywood: [
@@ -1518,6 +1621,11 @@ export const history = {
       ...tournaments.eleven,
       result: 875000,
     },
+    {
+      ...players.burns,
+      ...tournaments.twelve,
+      result: 0,
+    },
   ],
   aarongotkin: [
     {
@@ -1584,6 +1692,11 @@ export const history = {
       ...players.scheffler,
       ...tournaments.eleven,
       result: 4500000,
+    },
+    {
+      ...players.bradley,
+      ...tournaments.twelve,
+      result: 0,
     },
   ],
   spencersnow: [
@@ -1652,6 +1765,11 @@ export const history = {
       ...tournaments.eleven,
       result: 53500,
     },
+    {
+      ...players.taylor,
+      ...tournaments.twelve,
+      result: 0,
+    },
   ],
   jonahgutmann: [
     {
@@ -1718,6 +1836,11 @@ export const history = {
       ...players.hoge,
       ...tournaments.eleven,
       result: 57500,
+    },
+    {
+      ...players.mitchell,
+      ...tournaments.twelve,
+      result: 0,
     },
   ],
   benstarkman: [
@@ -1786,6 +1909,11 @@ export const history = {
       ...tournaments.eleven,
       result: 119286,
     },
+    {
+      ...players.silverman,
+      ...tournaments.twelve,
+      result: 0,
+    },
   ],
 };
 
@@ -1831,8 +1959,8 @@ export const users = [
     color: "#C1A955",
   },
   {
-    name: "jackbleiweis",
-    number: history["jackbleiweis"].reduce(
+    name: "benroher",
+    number: history["benroher"].reduce(
       (partialSum, a) => partialSum + a.result,
       0
     ),
@@ -2017,11 +2145,11 @@ export const currentPicks = [
     isCurrent: true,
   },
   {
-    name: "jackbleiweis",
+    name: "benroher",
     playerName:
-      history["jackbleiweis"][history["jackbleiweis"].length - 1].playerName,
+      history["benroher"][history["benroher"].length - 1].playerName,
     playerPhoto:
-      history["jackbleiweis"][history["jackbleiweis"].length - 1].playerPhoto,
+      history["benroher"][history["benroher"].length - 1].playerPhoto,
     color: "#55C1A0",
     isCurrent: true,
   },
