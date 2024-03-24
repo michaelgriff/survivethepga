@@ -472,7 +472,7 @@ export const history = {
     {
       ...players.young,
       ...tournaments.twelve,
-      result: 0,
+      result: 915600,
     },
   ],
   mattholland: [
@@ -616,7 +616,7 @@ export const history = {
     {
       ...players.ghim,
       ...tournaments.twelve,
-      result: 0,
+      result: 16632,
     },
   ],
   dustinpulver: [
@@ -688,7 +688,7 @@ export const history = {
     {
       ...players.cole,
       ...tournaments.twelve,
-      result: 0,
+      result: 39410,
     },
   ],
   benroher: [
@@ -832,7 +832,7 @@ export const history = {
     {
       ...players.ghim,
       ...tournaments.twelve,
-      result: 0,
+      result: 16632,
     },
   ],
   chasebergman: [
@@ -976,7 +976,7 @@ export const history = {
     {
       ...players.ghim,
       ...tournaments.twelve,
-      result: 0,
+      result: 16632,
     },
   ],
   deansacoransky: [
@@ -1048,7 +1048,7 @@ export const history = {
     {
       ...players.taylor,
       ...tournaments.twelve,
-      result: 0,
+      result: 18060,
     },
   ],
   maxwiseman: [
@@ -1192,7 +1192,7 @@ export const history = {
     {
       ...players.young,
       ...tournaments.twelve,
-      result: 0,
+      result: 915600,
     },
   ],
   adamgriff: [
@@ -1264,7 +1264,7 @@ export const history = {
     {
       ...players.ghim,
       ...tournaments.twelve,
-      result: 0,
+      result: 16632,
     },
   ],
   davidgriff: [
@@ -1336,7 +1336,7 @@ export const history = {
     {
       ...players.taylor,
       ...tournaments.twelve,
-      result: 0,
+      result: 18060,
     },
   ],
   simongrammer: [
@@ -1408,7 +1408,7 @@ export const history = {
     {
       ...players.ghim,
       ...tournaments.twelve,
-      result: 0,
+      result: 16632,
     },
   ],
   tygreenberg: [
@@ -1480,7 +1480,7 @@ export const history = {
     {
       ...players.ghim,
       ...tournaments.twelve,
-      result: 0,
+      result: 16632,
     },
   ],
   fletcherblakely: [
@@ -1768,7 +1768,7 @@ export const history = {
     {
       ...players.taylor,
       ...tournaments.twelve,
-      result: 0,
+      result: 18060,
     },
   ],
   jonahgutmann: [
@@ -1840,7 +1840,7 @@ export const history = {
     {
       ...players.mitchell,
       ...tournaments.twelve,
-      result: 0,
+      result: 104020,
     },
   ],
   benstarkman: [
