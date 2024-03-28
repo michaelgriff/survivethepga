@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>Valspar Championship</TournamentName>
+          <TournamentName>Houston Open</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Innisbrook Resort • Mar 21-24, 2024
+              Memorial Park Golf Course • Mar 28-31, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
