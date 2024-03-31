@@ -321,7 +321,6 @@ export const players = {
   },
 };
 
-
 const tournaments = {
   six: {
     tournamentName: "WM Phoenix Open",
@@ -424,7 +423,7 @@ export const history = {
     {
       ...players.kitayama,
       ...tournaments.thirteen,
-      result: 0,
+      result: 39636,
     },
   ],
   davidifergan: [
@@ -501,7 +500,7 @@ export const history = {
     {
       ...players.skim,
       ...tournaments.thirteen,
-      result: 0,
+      result: 134225,
     },
   ],
   mattholland: [
@@ -655,7 +654,7 @@ export const history = {
     {
       ...players.skim,
       ...tournaments.thirteen,
-      result: 0,
+      result: 134225,
     },
   ],
   dustinpulver: [
@@ -732,7 +731,7 @@ export const history = {
     {
       ...players.skim,
       ...tournaments.thirteen,
-      result: 0,
+      result: 134225,
     },
   ],
   benroher: [
@@ -809,7 +808,7 @@ export const history = {
     {
       ...players.theegala,
       ...tournaments.thirteen,
-      result: 0,
+      result: 65065,
     },
   ],
   michaelgriff: [
@@ -886,7 +885,7 @@ export const history = {
     {
       ...players.finau,
       ...tournaments.thirteen,
-      result: 0,
+      result: 553735,
     },
   ],
   chasebergman: [
@@ -1117,7 +1116,7 @@ export const history = {
     {
       ...players.theegala,
       ...tournaments.thirteen,
-      result: 0,
+      result: 65065,
     },
   ],
   maxwiseman: [
@@ -1194,7 +1193,7 @@ export const history = {
     {
       ...players.hoge,
       ...tournaments.thirteen,
-      result: 0,
+      result: 166075,
     },
   ],
   ryanschwartz: [
@@ -1271,7 +1270,7 @@ export const history = {
     {
       ...players.clark,
       ...tournaments.thirteen,
-      result: 0,
+      result: 54418,
     },
   ],
   adamgriff: [
@@ -1348,7 +1347,7 @@ export const history = {
     {
       ...players.noren,
       ...tournaments.thirteen,
-      result: 0,
+      result: 211575,
     },
   ],
   davidgriff: [
@@ -1425,7 +1424,7 @@ export const history = {
     {
       ...players.theegala,
       ...tournaments.thirteen,
-      result: 0,
+      result: 65065,
     },
   ],
   simongrammer: [
@@ -1579,7 +1578,7 @@ export const history = {
     {
       ...players.theegala,
       ...tournaments.thirteen,
-      result: 0,
+      result: 65065,
     },
   ],
   fletcherblakely: [
@@ -1656,7 +1655,7 @@ export const history = {
     {
       ...players.skim,
       ...tournaments.thirteen,
-      result: 0,
+      result: 134225,
     },
   ],
   harrywood: [
@@ -1733,7 +1732,7 @@ export const history = {
     {
       ...players.hughes,
       ...tournaments.thirteen,
-      result: 0,
+      result: 166075,
     },
   ],
   aarongotkin: [
@@ -1810,7 +1809,7 @@ export const history = {
     {
       ...players.rai,
       ...tournaments.thirteen,
-      result: 0,
+      result: 276413,
     },
   ],
   spencersnow: [
@@ -1887,7 +1886,7 @@ export const history = {
     {
       ...players.hughes,
       ...tournaments.thirteen,
-      result: 0,
+      result: 166075,
     },
   ],
   jonahgutmann: [
@@ -2041,7 +2040,7 @@ export const history = {
     {
       ...players.theegala,
       ...tournaments.thirteen,
-      result: 0,
+      result: 65065,
     },
   ],
 };
@@ -2275,8 +2274,7 @@ export const currentPicks = [
   },
   {
     name: "benroher",
-    playerName:
-      history["benroher"][history["benroher"].length - 1].playerName,
+    playerName: history["benroher"][history["benroher"].length - 1].playerName,
     playerPhoto:
       history["benroher"][history["benroher"].length - 1].playerPhoto,
     color: "#55C1A0",
