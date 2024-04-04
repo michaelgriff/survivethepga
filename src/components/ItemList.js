@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>Houston Open</TournamentName>
+          <TournamentName>Valero Texas Open</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Memorial Park Golf Course • Mar 28-31, 2024
+              TPC San Antonio • Apr 4-7, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
