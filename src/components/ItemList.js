@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>Valero Texas Open</TournamentName>
+          <TournamentName>The Masters</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              TPC San Antonio • Apr 4-7, 2024
+              Augusta National GC • Apr 11-14, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
