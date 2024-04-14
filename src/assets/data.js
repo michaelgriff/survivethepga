@@ -385,7 +385,7 @@ const tournaments = {
     tournamentName: "Valero Texas Open",
   },
   fifteen: {
-    tournamentName: "Valero Texas Open",
+    tournamentName: "The Masters",
   },
 };
 
@@ -474,7 +474,7 @@ export const history = {
     {
       ...players.mcilroy,
       ...tournaments.fifteen,
-      result: 0,
+      result: 175500,
     },
   ],
   davidifergan: [
@@ -561,7 +561,7 @@ export const history = {
     {
       ...players.koepka,
       ...tournaments.fifteen,
-      result: 0,
+      result: 57200,
     },
   ],
   mattholland: [
@@ -648,7 +648,7 @@ export const history = {
     {
       ...players.niemann,
       ...tournaments.fifteen,
-      result: 0,
+      result: 175500,
     },
   ],
   jakegreenberg: [
@@ -735,7 +735,7 @@ export const history = {
     {
       ...players.scheffler,
       ...tournaments.fifteen,
-      result: 0,
+      result: 3600000,
     },
   ],
   dustinpulver: [
@@ -822,7 +822,7 @@ export const history = {
     {
       ...players.matsuyama,
       ...tournaments.fifteen,
-      result: 0,
+      result: 86000,
     },
   ],
   benroher: [
@@ -996,7 +996,7 @@ export const history = {
     {
       ...players.mcilroy,
       ...tournaments.fifteen,
-      result: 0,
+      result: 175500,
     },
   ],
   chasebergman: [
@@ -1170,7 +1170,7 @@ export const history = {
     {
       ...players.scheffler,
       ...tournaments.fifteen,
-      result: 0,
+      result: 3600000,
     },
   ],
   deansacoransky: [
@@ -1257,7 +1257,7 @@ export const history = {
     {
       ...players.schauffele,
       ...tournaments.fifteen,
-      result: 0,
+      result: 620000,
     },
   ],
   maxwiseman: [
@@ -1344,7 +1344,7 @@ export const history = {
     {
       ...players.aberg,
       ...tournaments.fifteen,
-      result: 0,
+      result: 2160000,
     },
   ],
   ryanschwartz: [
@@ -1431,7 +1431,7 @@ export const history = {
     {
       ...players.niemann,
       ...tournaments.fifteen,
-      result: 0,
+      result: 175500,
     },
   ],
   adamgriff: [
@@ -1518,7 +1518,7 @@ export const history = {
     {
       ...players.rahm,
       ...tournaments.fifteen,
-      result: 0,
+      result: 57200,
     },
   ],
   davidgriff: [
@@ -1605,7 +1605,7 @@ export const history = {
     {
       ...players.rahm,
       ...tournaments.fifteen,
-      result: 0,
+      result: 57200,
     },
   ],
   simongrammer: [
@@ -1692,7 +1692,7 @@ export const history = {
     {
       ...players.koepka,
       ...tournaments.fifteen,
-      result: 0,
+      result: 57200,
     },
   ],
   tygreenberg: [
@@ -1779,7 +1779,7 @@ export const history = {
     {
       ...players.rahm,
       ...tournaments.fifteen,
-      result: 0,
+      result: 57200,
     },
   ],
   fletcherblakely: [
@@ -1866,7 +1866,7 @@ export const history = {
     {
       ...players.koepka,
       ...tournaments.fifteen,
-      result: 0,
+      result: 57200,
     },
   ],
   harrywood: [
@@ -1953,7 +1953,7 @@ export const history = {
     {
       ...players.koepka,
       ...tournaments.fifteen,
-      result: 0,
+      result: 57200,
     },
   ],
   aarongotkin: [
@@ -2040,7 +2040,7 @@ export const history = {
     {
       ...players.koepka,
       ...tournaments.fifteen,
-      result: 0,
+      result: 57200,
     },
   ],
   spencersnow: [
@@ -2127,7 +2127,7 @@ export const history = {
     {
       ...players.matsuyama,
       ...tournaments.fifteen,
-      result: 0,
+      result: 86000,
     },
   ],
   jonahgutmann: [
@@ -2214,7 +2214,7 @@ export const history = {
     {
       ...players.schauffele,
       ...tournaments.fifteen,
-      result: 0,
+      result: 620000,
     },
   ],
   benstarkman: [
@@ -2301,7 +2301,7 @@ export const history = {
     {
       ...players.woods,
       ...tournaments.fifteen,
-      result: 0,
+      result: 49200,
     },
   ],
 };
