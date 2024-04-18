@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>The Masters</TournamentName>
+          <TournamentName>RBC Heritage</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Augusta National GC • Apr 11-14, 2024
+              Harbour Town Golf Links • Apr 18-21, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
