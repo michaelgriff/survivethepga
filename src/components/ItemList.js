@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>RBC Heritage</TournamentName>
+          <TournamentName>Zurich Classic</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Harbour Town Golf Links • Apr 18-21, 2024
+              TPC Louisiana • Apr 25-28, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
