@@ -419,6 +419,16 @@ export const players = {
     playerPhoto:
       "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_39997.jpg",
   },
+  power: {
+    playerName: "Seamus Power",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_28252.jpg",
+  },
+  mcnealy: {
+    playerName: "Maverick McNealy",
+    playerPhoto:
+      "https://pga-tour-res.cloudinary.com/image/upload/c_thumb,g_face,z_0.7,q_auto,dpr_2.0,w_80,h_80,b_rgb:F2F2F2,d_stub:default_avatar_light.png/headshots_46442.jpg",
+  },
 };
 
 const tournaments = {
@@ -457,6 +467,9 @@ const tournaments = {
   },
   seventeen: {
     tournamentName: "Zurich Classic",
+  },
+  eighteen: {
+    tournamentName: "CJ Cup Byron Nelson",
   },
 };
 
@@ -557,6 +570,11 @@ export const history = {
       ...tournaments.seventeen,
       result: 0,
     },
+    {
+      ...players.skim,
+      ...tournaments.eighteen,
+      result: 0,
+    },
   ],
   davidifergan: [
     {
@@ -652,6 +670,11 @@ export const history = {
     {
       ...players.montgomerygriffin,
       ...tournaments.seventeen,
+      result: 0,
+    },
+    {
+      ...players.jaeger,
+      ...tournaments.eighteen,
       result: 0,
     },
   ],
@@ -751,6 +774,11 @@ export const history = {
       ...tournaments.seventeen,
       result: 244750,
     },
+    {
+      ...players.lee,
+      ...tournaments.eighteen,
+      result: 0,
+    },
   ],
   jakegreenberg: [
     {
@@ -846,6 +874,11 @@ export const history = {
     {
       ...players.potgieter,
       ...tournaments.seventeen,
+      result: 0,
+    },
+    {
+      ...players.lee,
+      ...tournaments.eighteen,
       result: 0,
     },
   ],
@@ -945,6 +978,11 @@ export const history = {
       ...tournaments.seventeen,
       result: 0,
     },
+    {
+      ...players.power,
+      ...tournaments.eighteen,
+      result: 0,
+    },
   ],
   benroher: [
     {
@@ -1040,6 +1078,11 @@ export const history = {
     {
       ...players.hojgaardtwo,
       ...tournaments.seventeen,
+      result: 0,
+    },
+    {
+      ...players.power,
+      ...tournaments.eighteen,
       result: 0,
     },
   ],
@@ -1139,6 +1182,11 @@ export const history = {
       ...tournaments.seventeen,
       result: 0,
     },
+    {
+      ...players.lee,
+      ...tournaments.eighteen,
+      result: 0,
+    },
   ],
   chasebergman: [
     {
@@ -1235,6 +1283,11 @@ export const history = {
       ...players.fitzpatricks,
       ...tournaments.seventeen,
       result: 138138,
+    },
+    {
+      ...players.mcnealy,
+      ...tournaments.eighteen,
+      result: 0,
     },
   ],
   coletishler: [
@@ -1333,6 +1386,11 @@ export const history = {
       ...tournaments.seventeen,
       result: 244750,
     },
+    {
+      ...players.hoge,
+      ...tournaments.eighteen,
+      result: 0,
+    },
   ],
   deansacoransky: [
     {
@@ -1430,6 +1488,11 @@ export const history = {
       ...tournaments.seventeen,
       result: 2572000,
     },
+    {
+      ...players.an,
+      ...tournaments.eighteen,
+      result: 0,
+    },
   ],
   maxwiseman: [
     {
@@ -1525,6 +1588,11 @@ export const history = {
     {
       ...players.hojgaardtwo,
       ...tournaments.seventeen,
+      result: 0,
+    },
+    {
+      ...players.spieth,
+      ...tournaments.eighteen,
       result: 0,
     },
   ],
@@ -1624,6 +1692,11 @@ export const history = {
       ...tournaments.seventeen,
       result: 0,
     },
+    {
+      ...players.power,
+      ...tournaments.eighteen,
+      result: 0,
+    },
   ],
   adamgriff: [
     {
@@ -1719,6 +1792,11 @@ export const history = {
     {
       ...players.hogemcnealy,
       ...tournaments.seventeen,
+      result: 0,
+    },
+    {
+      ...players.skim,
+      ...tournaments.eighteen,
       result: 0,
     },
   ],
@@ -1818,6 +1896,11 @@ export const history = {
       ...tournaments.seventeen,
       result: 138138,
     },
+    {
+      ...players.spieth,
+      ...tournaments.eighteen,
+      result: 0,
+    },
   ],
   simongrammer: [
     {
@@ -1914,6 +1997,11 @@ export const history = {
       ...players.taylorhadwin,
       ...tournaments.seventeen,
       result: 244750,
+    },
+    {
+      ...players.scott,
+      ...tournaments.eighteen,
+      result: 0,
     },
   ],
   tygreenberg: [
@@ -2012,6 +2100,11 @@ export const history = {
       ...tournaments.seventeen,
       result: 244750,
     },
+    {
+      ...players.skim,
+      ...tournaments.eighteen,
+      result: 0,
+    },
   ],
   fletcherblakely: [
     {
@@ -2107,6 +2200,11 @@ export const history = {
     {
       ...players.hogemcnealy,
       ...tournaments.seventeen,
+      result: 0,
+    },
+    {
+      ...players.day,
+      ...tournaments.eighteen,
       result: 0,
     },
   ],
@@ -2206,6 +2304,11 @@ export const history = {
       ...tournaments.seventeen,
       result: 38270,
     },
+    {
+      ...players.knapp,
+      ...tournaments.eighteen,
+      result: 0,
+    },
   ],
   aarongotkin: [
     {
@@ -2301,6 +2404,11 @@ export const history = {
     {
       ...players.hogemcnealy,
       ...tournaments.seventeen,
+      result: 0,
+    },
+    {
+      ...players.day,
+      ...tournaments.eighteen,
       result: 0,
     },
   ],
@@ -2400,6 +2508,11 @@ export const history = {
       ...tournaments.seventeen,
       result: 0,
     },
+    {
+      ...players.skim,
+      ...tournaments.eighteen,
+      result: 0,
+    },
   ],
   jonahgutmann: [
     {
@@ -2495,6 +2608,11 @@ export const history = {
     {
       ...players.horschelalexander,
       ...tournaments.seventeen,
+      result: 0,
+    },
+    {
+      ...players.jaeger,
+      ...tournaments.eighteen,
       result: 0,
     },
   ],
@@ -2593,6 +2711,11 @@ export const history = {
       ...players.cantlayschauffele,
       ...tournaments.seventeen,
       result: 47530,
+    },
+    {
+      ...players.hughes,
+      ...tournaments.eighteen,
+      result: 0,
     },
   ],
 };

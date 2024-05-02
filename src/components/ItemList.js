@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>Zurich Classic</TournamentName>
+          <TournamentName>CJ Cup Byron Nelson</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              TPC Louisiana • Apr 25-28, 2024
+              TPC Craig Ranch • May 2-5, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
