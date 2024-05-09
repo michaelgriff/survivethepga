@@ -471,6 +471,9 @@ const tournaments = {
   eighteen: {
     tournamentName: "CJ Cup Byron Nelson",
   },
+  nineteen: {
+    tournamentName: "Wells Fargo",
+  },
 };
 
 export const history = {
@@ -575,6 +578,11 @@ export const history = {
       ...tournaments.eighteen,
       result: 165232,
     },
+    {
+      ...players.an,
+      ...tournaments.nineteen,
+      result: 0,
+    },
   ],
   davidifergan: [
     {
@@ -676,6 +684,11 @@ export const history = {
       ...players.jaeger,
       ...tournaments.eighteen,
       result: 112100,
+    },
+    {
+      ...players.mcilroy,
+      ...tournaments.nineteen,
+      result: 0,
     },
   ],
   mattholland: [
@@ -779,6 +792,11 @@ export const history = {
       ...tournaments.eighteen,
       result: 77425,
     },
+    {
+      ...players.mcilroy,
+      ...tournaments.nineteen,
+      result: 0,
+    },
   ],
   jakegreenberg: [
     {
@@ -881,6 +899,11 @@ export const history = {
       ...tournaments.eighteen,
       result: 77425,
     },
+    {
+      ...players.schauffele,
+      ...tournaments.nineteen,
+      result: 0,
+    },
   ],
   dustinpulver: [
     {
@@ -981,6 +1004,11 @@ export const history = {
     {
       ...players.power,
       ...tournaments.eighteen,
+      result: 0,
+    },
+    {
+      ...players.hovland,
+      ...tournaments.nineteen,
       result: 0,
     },
   ],
@@ -1085,6 +1113,11 @@ export const history = {
       ...tournaments.eighteen,
       result: 0,
     },
+    {
+      ...players.clark,
+      ...tournaments.nineteen,
+      result: 0,
+    },
   ],
   michaelgriff: [
     {
@@ -1186,6 +1219,11 @@ export const history = {
       ...players.lee,
       ...tournaments.eighteen,
       result: 77425,
+    },
+    {
+      ...players.clark,
+      ...tournaments.nineteen,
+      result: 0,
     },
   ],
   chasebergman: [
@@ -1289,6 +1327,11 @@ export const history = {
       ...tournaments.eighteen,
       result: 33725,
     },
+    {
+      ...players.mcilroy,
+      ...tournaments.nineteen,
+      result: 0,
+    },
   ],
   coletishler: [
     {
@@ -1390,6 +1433,11 @@ export const history = {
       ...players.hoge,
       ...tournaments.eighteen,
       result: 33725,
+    },
+    {
+      ...players.matsuyama,
+      ...tournaments.nineteen,
+      result: 0,
     },
   ],
   deansacoransky: [
@@ -1493,6 +1541,11 @@ export const history = {
       ...tournaments.eighteen,
       result: 380000,
     },
+    {
+      ...players.morikawa,
+      ...tournaments.nineteen,
+      result: 0,
+    },
   ],
   maxwiseman: [
     {
@@ -1593,6 +1646,11 @@ export const history = {
     {
       ...players.spieth,
       ...tournaments.eighteen,
+      result: 0,
+    },
+    {
+      ...players.zalatoris,
+      ...tournaments.nineteen,
       result: 0,
     },
   ],
@@ -1697,6 +1755,11 @@ export const history = {
       ...tournaments.eighteen,
       result: 0,
     },
+    {
+      ...players.cantlay,
+      ...tournaments.nineteen,
+      result: 0,
+    },
   ],
   adamgriff: [
     {
@@ -1799,6 +1862,11 @@ export const history = {
       ...tournaments.eighteen,
       result: 165232,
     },
+    {
+      ...players.mcilroy,
+      ...tournaments.nineteen,
+      result: 0,
+    },
   ],
   davidgriff: [
     {
@@ -1899,6 +1967,11 @@ export const history = {
     {
       ...players.spieth,
       ...tournaments.eighteen,
+      result: 0,
+    },
+    {
+      ...players.clark,
+      ...tournaments.nineteen,
       result: 0,
     },
   ],
@@ -2003,6 +2076,11 @@ export const history = {
       ...tournaments.eighteen,
       result: 52293,
     },
+    {
+      ...players.hovland,
+      ...tournaments.nineteen,
+      result: 0,
+    },
   ],
   tygreenberg: [
     {
@@ -2104,6 +2182,11 @@ export const history = {
       ...players.skim,
       ...tournaments.eighteen,
       result: 165232,
+    },
+    {
+      ...players.mcilroy,
+      ...tournaments.nineteen,
+      result: 0,
     },
   ],
   fletcherblakely: [
@@ -2207,6 +2290,11 @@ export const history = {
       ...tournaments.eighteen,
       result: 21375,
     },
+    {
+      ...players.clark,
+      ...tournaments.nineteen,
+      result: 0,
+    },
   ],
   harrywood: [
     {
@@ -2308,6 +2396,11 @@ export const history = {
       ...players.knapp,
       ...tournaments.eighteen,
       result: 296875,
+    },
+    {
+      ...players.theegala,
+      ...tournaments.nineteen,
+      result: 0,
     },
   ],
   aarongotkin: [
@@ -2411,6 +2504,11 @@ export const history = {
       ...tournaments.eighteen,
       result: 31275,
     },
+    {
+      ...players.schauffele,
+      ...tournaments.nineteen,
+      result: 0,
+    },
   ],
   spencersnow: [
     {
@@ -2512,6 +2610,11 @@ export const history = {
       ...players.skim,
       ...tournaments.eighteen,
       result: 165232,
+    },
+    {
+      ...players.schauffele,
+      ...tournaments.nineteen,
+      result: 0,
     },
   ],
   jonahgutmann: [
@@ -2615,6 +2718,11 @@ export const history = {
       ...tournaments.eighteen,
       result: 112100,
     },
+    {
+      ...players.fowler,
+      ...tournaments.nineteen,
+      result: 0,
+    },
   ],
   benstarkman: [
     {
@@ -2716,6 +2824,11 @@ export const history = {
       ...players.hughes,
       ...tournaments.eighteen,
       result: 33725,
+    },
+    {
+      ...players.knapp,
+      ...tournaments.nineteen,
+      result: 0,
     },
   ],
 };

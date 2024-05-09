@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>CJ Cup Byron Nelson</TournamentName>
+          <TournamentName>Wells Fargo Championship</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              TPC Craig Ranch • May 2-5, 2024
+              Quail Hollow Club • May 9-12, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
