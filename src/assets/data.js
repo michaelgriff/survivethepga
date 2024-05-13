@@ -688,7 +688,7 @@ export const history = {
     {
       ...players.mcilroy,
       ...tournaments.nineteen,
-      result: 0,
+      result: 3600000,
     },
   ],
   mattholland: [
