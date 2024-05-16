@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>Wells Fargo Championship</TournamentName>
+          <TournamentName>PGA Championship</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Quail Hollow Club • May 9-12, 2024
+              Valhalla Golf Club • May 16-19, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
