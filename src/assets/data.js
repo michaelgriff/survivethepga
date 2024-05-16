@@ -1152,7 +1152,7 @@ export const history = {
       result: 53420,
     },
     {
-      ...players.dechambeau,
+      ...players.koepka,
       ...tournaments.twenty,
       result: 0,
     },
