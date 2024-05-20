@@ -2498,9 +2498,9 @@ export const history = {
       result: 47000,
     },
     {
-      ...players.clark,
+      ...players.dechambeau,
       ...tournaments.twenty,
-      result: 0,
+      result: 1998000,
     },
   ],
   aarongotkin: [
