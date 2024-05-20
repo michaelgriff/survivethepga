@@ -594,7 +594,7 @@ export const history = {
     {
       ...players.koepka,
       ...tournaments.twenty,
-      result: 0,
+      result: 113962,
     },
   ],
   davidifergan: [
@@ -706,7 +706,7 @@ export const history = {
     {
       ...players.dechambeau,
       ...tournaments.twenty,
-      result: 0,
+      result: 1998000,
     },
   ],
   mattholland: [
@@ -818,7 +818,7 @@ export const history = {
     {
       ...players.koepka,
       ...tournaments.twenty,
-      result: 0,
+      result: 113962,
     },
   ],
   jakegreenberg: [
@@ -930,7 +930,7 @@ export const history = {
     {
       ...players.koepka,
       ...tournaments.twenty,
-      result: 0,
+      result: 113962,
     },
   ],
   dustinpulver: [
@@ -1042,7 +1042,7 @@ export const history = {
     {
       ...players.morikawa,
       ...tournaments.twenty,
-      result: 0,
+      result: 814000,
     },
   ],
   benroher: [
@@ -1154,7 +1154,7 @@ export const history = {
     {
       ...players.koepka,
       ...tournaments.twenty,
-      result: 0,
+      result: 113962,
     },
   ],
   michaelgriff: [
@@ -1378,7 +1378,7 @@ export const history = {
     {
       ...players.koepka,
       ...tournaments.twenty,
-      result: 0,
+      result: 113962,
     },
   ],
   coletishler: [
@@ -1490,7 +1490,7 @@ export const history = {
     {
       ...players.dechambeau,
       ...tournaments.twenty,
-      result: 0,
+      result: 1998000,
     },
   ],
   deansacoransky: [
@@ -1712,7 +1712,9 @@ export const history = {
       result: 44200,
     },
     {
-      ...players.homa,
+      playerName: "Invalid Selection (Used)",
+      playerPhoto:
+        "https://i.pinimg.com/736x/ea/80/27/ea8027169a89af10e6fa4155936a30e8.jpg",
       ...tournaments.twenty,
       result: 0,
     },
@@ -1826,7 +1828,7 @@ export const history = {
     {
       ...players.scheffler,
       ...tournaments.twenty,
-      result: 0,
+      result: 521417,
     },
   ],
   adamgriff: [
@@ -1938,7 +1940,7 @@ export const history = {
     {
       ...players.dechambeau,
       ...tournaments.twenty,
-      result: 0,
+      result: 1998000,
     },
   ],
   davidgriff: [
@@ -2050,7 +2052,7 @@ export const history = {
     {
       ...players.koepka,
       ...tournaments.twenty,
-      result: 0,
+      result: 113962,
     },
   ],
   simongrammer: [
@@ -2162,7 +2164,7 @@ export const history = {
     {
       ...players.mcilroy,
       ...tournaments.twenty,
-      result: 0,
+      result: 359943,
     },
   ],
   tygreenberg: [
@@ -2274,7 +2276,7 @@ export const history = {
     {
       ...players.koepka,
       ...tournaments.twenty,
-      result: 0,
+      result: 113962,
     },
   ],
   fletcherblakely: [
@@ -2386,7 +2388,7 @@ export const history = {
     {
       ...players.mcilroy,
       ...tournaments.twenty,
-      result: 0,
+      result: 359943,
     },
   ],
   harrywood: [
@@ -2610,7 +2612,7 @@ export const history = {
     {
       ...players.homa,
       ...tournaments.twenty,
-      result: 0,
+      result: 79182,
     },
   ],
   spencersnow: [
@@ -2834,7 +2836,7 @@ export const history = {
     {
       ...players.mcilroy,
       ...tournaments.twenty,
-      result: 0,
+      result: 359943,
     },
   ],
   benstarkman: [
@@ -2946,7 +2948,7 @@ export const history = {
     {
       ...players.thomas,
       ...tournaments.twenty,
-      result: 0,
+      result: 521417,
     },
   ],
 };
