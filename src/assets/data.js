@@ -3063,6 +3063,11 @@ export const history = {
       ...tournaments.twenty,
       result: 521417,
     },
+    {
+      ...players.spieth,
+      ...tournaments.twentyone,
+      result: 0,
+    },
   ],
 };
 
