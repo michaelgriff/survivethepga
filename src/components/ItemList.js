@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>PGA Championship</TournamentName>
+          <TournamentName>Charles Schwab Challenge</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Valhalla Golf Club • May 16-19, 2024
+              Colonial CC • May 23-26, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
