@@ -607,7 +607,7 @@ export const history = {
     {
       ...players.rose,
       ...tournaments.twentyone,
-      result: 0,
+      result: 51961,
     },
   ],
   davidifergan: [
@@ -724,7 +724,7 @@ export const history = {
     {
       ...players.mcnealy,
       ...tournaments.twentyone,
-      result: 0,
+      result: 120835,
     },
   ],
   mattholland: [
@@ -841,7 +841,7 @@ export const history = {
     {
       ...players.spieth,
       ...tournaments.twentyone,
-      result: 0,
+      result: 38675,
     },
   ],
   jakegreenberg: [
@@ -958,7 +958,7 @@ export const history = {
     {
       ...players.finau,
       ...tournaments.twentyone,
-      result: 0,
+      result: 120835,
     },
   ],
   dustinpulver: [
@@ -1309,7 +1309,7 @@ export const history = {
     {
       ...players.horschel,
       ...tournaments.twentyone,
-      result: 0,
+      result: 70866,
     },
   ],
   chasebergman: [
@@ -1426,7 +1426,7 @@ export const history = {
     {
       ...players.straka,
       ...tournaments.twentyone,
-      result: 0,
+      result: 323619,
     },
   ],
   coletishler: [
@@ -1543,7 +1543,7 @@ export const history = {
     {
       ...players.harman,
       ...tournaments.twentyone,
-      result: 0,
+      result: 70866,
     },
   ],
   deansacoransky: [
@@ -1779,7 +1779,7 @@ export const history = {
     {
       ...players.rai,
       ...tournaments.twentyone,
-      result: 0,
+      result: 51961,
     },
   ],
   ryanschwartz: [
@@ -1896,7 +1896,7 @@ export const history = {
     {
       ...players.harman,
       ...tournaments.twentyone,
-      result: 0,
+      result: 70866,
     },
   ],
   adamgriff: [
@@ -2013,7 +2013,7 @@ export const history = {
     {
       ...players.detry,
       ...tournaments.twentyone,
-      result: 0,
+      result: 20839,
     },
   ],
   davidgriff: [
@@ -2481,7 +2481,7 @@ export const history = {
     {
       ...players.finau,
       ...tournaments.twentyone,
-      result: 0,
+      result: 120835,
     },
   ],
   harrywood: [
@@ -2598,7 +2598,7 @@ export const history = {
     {
       ...players.im,
       ...tournaments.twentyone,
-      result: 0,
+      result: 247975,
     },
   ],
   aarongotkin: [
@@ -2715,7 +2715,7 @@ export const history = {
     {
       ...players.spieth,
       ...tournaments.twentyone,
-      result: 0,
+      result: 38675,
     },
   ],
   spencersnow: [
@@ -2832,7 +2832,7 @@ export const history = {
     {
       ...players.rai,
       ...tournaments.twentyone,
-      result: 0,
+      result: 51961,
     },
   ],
   jonahgutmann: [
@@ -3066,7 +3066,7 @@ export const history = {
     {
       ...players.spieth,
       ...tournaments.twentyone,
-      result: 0,
+      result: 38675,
     },
   ],
 };
