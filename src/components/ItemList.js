@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>Charles Schwab Challenge</TournamentName>
+          <TournamentName>RBC Canadian Open</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Colonial CC • May 23-26, 2024
+              Hamilton G&CC • May 30 - June 2, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
