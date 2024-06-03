@@ -1713,7 +1713,7 @@ export const history = {
     {
       ...players.burns,
       ...tournaments.twentytwo,
-      result: 0,
+      result: 227950,
     },
   ],
   maxwiseman: [
