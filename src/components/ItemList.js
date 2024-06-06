@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>RBC Canadian Open</TournamentName>
+          <TournamentName>The Memorial</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Hamilton G&CC • May 30 - June 2, 2024
+              Muirfield Village • May 30 - June 2, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
