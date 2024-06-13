@@ -2631,7 +2631,7 @@ export const history = {
       result: 0,
     },
     {
-      ...players.cantlay,
+      ...players.dechambeau,
       ...tournaments.twentyfour,
       result: 0,
     },
