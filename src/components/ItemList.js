@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>The Memorial</TournamentName>
+          <TournamentName>US Open</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Muirfield Village • May 30 - June 2, 2024
+              Pinehurst No. 2 • June 13-16, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
