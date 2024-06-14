@@ -1040,7 +1040,7 @@ export const history = {
       result: 766667,
     },
     {
-      ...players.aberg,
+      ...players.dechambeau,
       ...tournaments.twentyfour,
       result: 0,
     },
