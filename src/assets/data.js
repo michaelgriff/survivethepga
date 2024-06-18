@@ -1568,11 +1568,6 @@ export const history = {
       result: 0,
     },
     {
-      ...players.clark,
-      ...tournaments.twentythree,
-      result: 0,
-    },
-    {
       ...players.hovland,
       ...tournaments.twentyfour,
       result: 0,
