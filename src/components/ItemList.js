@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>US Open</TournamentName>
+          <TournamentName>Travellers Championship</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Pinehurst No. 2 • June 13-16, 2024
+              TPC River Highlands • June 20-23, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
