@@ -654,7 +654,7 @@ export const history = {
     {
       ...players.burns,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 44750,
     },
   ],
   davidifergan: [
@@ -791,7 +791,7 @@ export const history = {
     {
       ...players.aberg,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 144000,
     },
   ],
   mattholland: [
@@ -928,7 +928,7 @@ export const history = {
     {
       ...players.matsuyama,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 183500,
     },
   ],
   jakegreenberg: [
@@ -1065,7 +1065,7 @@ export const history = {
     {
       ...players.fleetwood,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 360000,
     },
   ],
   dustinpulver: [
@@ -1202,7 +1202,7 @@ export const history = {
     {
       ...players.aberg,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 144000,
     },
   ],
   benroher: [
@@ -1339,7 +1339,7 @@ export const history = {
     {
       ...players.cantlay,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 702500,
     },
   ],
   michaelgriff: [
@@ -1476,7 +1476,7 @@ export const history = {
     {
       ...players.theegala,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 49286,
     },
   ],
   chasebergman: [
@@ -1613,7 +1613,7 @@ export const history = {
     {
       ...players.schauffele,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 400000,
     },
   ],
   coletishler: [
@@ -1750,7 +1750,7 @@ export const history = {
     {
       ...players.cantlay,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 702500,
     },
   ],
   deansacoransky: [
@@ -1887,7 +1887,7 @@ export const history = {
     {
       ...players.matsuyama,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 183500,
     },
   ],
   maxwiseman: [
@@ -2026,7 +2026,7 @@ export const history = {
     {
       ...players.bhatia,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 702500,
     },
   ],
   ryanschwartz: [
@@ -2163,7 +2163,7 @@ export const history = {
     {
       ...players.straka,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 183500,
     },
   ],
   adamgriff: [
@@ -2300,7 +2300,7 @@ export const history = {
     {
       ...players.finau,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 702500,
     },
   ],
   davidgriff: [
@@ -2437,7 +2437,7 @@ export const history = {
     {
       ...players.cantlay,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 702500,
     },
   ],
   simongrammer: [
@@ -2574,7 +2574,7 @@ export const history = {
     {
       ...players.matsuyama,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 183500,
     },
   ],
   tygreenberg: [
@@ -2711,7 +2711,7 @@ export const history = {
     {
       ...players.harman,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 520000,
     },
   ],
   fletcherblakely: [
@@ -2848,7 +2848,7 @@ export const history = {
     {
       ...players.matsuyama,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 183500,
     },
   ],
   harrywood: [
@@ -2985,7 +2985,7 @@ export const history = {
     {
       ...players.spieth,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 41500,
     },
   ],
   aarongotkin: [
@@ -3122,7 +3122,7 @@ export const history = {
     {
       ...players.matsuyama,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 183500,
     },
   ],
   spencersnow: [
@@ -3259,7 +3259,7 @@ export const history = {
     {
       ...players.cantlay,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 702500,
     },
   ],
   jonahgutmann: [
@@ -3401,7 +3401,7 @@ export const history = {
     {
       ...players.lowry,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 520000,
     },
   ],
   benstarkman: [
@@ -3538,7 +3538,7 @@ export const history = {
     {
       ...players.finau,
       ...tournaments.twentyfive,
-      result: 0,
+      result: 702500,
     },
   ],
 };
