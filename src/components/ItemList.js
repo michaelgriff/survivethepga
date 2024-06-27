@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>Travellers Championship</TournamentName>
+          <TournamentName>Rocket Mortgage Classic</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              TPC River Highlands • June 20-23, 2024
+              Detroit Golf Club • Jun 27-30, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
