@@ -3654,7 +3654,7 @@ export const history = {
       result: 702500,
     },
     {
-      ...players.dahmnen,
+      ...players.dahmen,
       ...tournaments.twentysix,
       result: 0,
     },
