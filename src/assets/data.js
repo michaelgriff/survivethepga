@@ -992,7 +992,7 @@ export const history = {
       result: 0,
     },
     {
-      ...players.glover,
+      ...players.lee,
       ...tournaments.twentyseven,
       result: 0,
     },

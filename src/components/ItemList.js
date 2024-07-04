@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>Rocket Mortgage Classic</TournamentName>
+          <TournamentName>John Deere Classic</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Detroit Golf Club • Jun 27-30, 2024
+              TPC Deere Run • Jun 27-30, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
