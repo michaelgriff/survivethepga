@@ -2133,9 +2133,7 @@ export const history = {
       result: 44200,
     },
     {
-      playerName: "Invalid Selection (Used)",
-      playerPhoto:
-        "https://i.pinimg.com/736x/ea/80/27/ea8027169a89af10e6fa4155936a30e8.jpg",
+      ...players.homa,
       ...tournaments.twenty,
       result: 0,
     },
@@ -2172,7 +2170,7 @@ export const history = {
     {
       ...players.spieth,
       ...tournaments.twentyseven,
-      result: 64200,
+      result: 0,
     },
   ],
   ryanschwartz: [
@@ -2264,7 +2262,7 @@ export const history = {
     {
       ...players.young,
       ...tournaments.sixteen,
-      result: 43600,
+      result: 0,
     },
     {
       ...players.hogemcnealy,
