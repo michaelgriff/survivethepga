@@ -1141,7 +1141,7 @@ export const history = {
     {
       ...players.spieth,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 64200,
     },
   ],
   dustinpulver: [
@@ -1288,7 +1288,7 @@ export const history = {
     {
       ...players.rai,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 252400,
     },
   ],
   benroher: [
@@ -1435,7 +1435,7 @@ export const history = {
     {
       ...players.silverman,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 126000,
     },
   ],
   michaelgriff: [
@@ -1582,7 +1582,7 @@ export const history = {
     {
       ...players.thompson,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 1440000,
     },
   ],
   chasebergman: [
@@ -1729,7 +1729,7 @@ export const history = {
     {
       ...players.day,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 83600,
     },
   ],
   coletishler: [
@@ -1876,7 +1876,7 @@ export const history = {
     {
       ...players.mitchell,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 126000,
     },
   ],
   deansacoransky: [
@@ -2023,7 +2023,7 @@ export const history = {
     {
       ...players.spieth,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 64200,
     },
   ],
   maxwiseman: [
@@ -2172,7 +2172,7 @@ export const history = {
     {
       ...players.spieth,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 64200,
     },
   ],
   ryanschwartz: [
@@ -2319,7 +2319,7 @@ export const history = {
     {
       ...players.rai,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 252400,
     },
   ],
   adamgriff: [
@@ -2466,7 +2466,7 @@ export const history = {
     {
       ...players.rai,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 252400,
     },
   ],
   davidgriff: [
@@ -2613,7 +2613,7 @@ export const history = {
     {
       ...players.im,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 171600,
     },
   ],
   simongrammer: [
@@ -2760,7 +2760,7 @@ export const history = {
     {
       ...players.poston,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 56000,
     },
   ],
   tygreenberg: [
@@ -2907,7 +2907,7 @@ export const history = {
     {
       ...players.rai,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 252400,
     },
   ],
   fletcherblakely: [
@@ -3054,7 +3054,7 @@ export const history = {
     {
       ...players.straka,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 17200,
     },
   ],
   harrywood: [
@@ -3201,7 +3201,7 @@ export const history = {
     {
       ...players.straka,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 17200,
     },
   ],
   aarongotkin: [
@@ -3348,7 +3348,7 @@ export const history = {
     {
       ...players.yu,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 106000,
     },
   ],
   spencersnow: [
@@ -3647,7 +3647,7 @@ export const history = {
     {
       ...players.rai,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 252400,
     },
   ],
   benstarkman: [
