@@ -3628,11 +3628,6 @@ export const history = {
       result: 72305,
     },
     {
-      ...players.burns,
-      ...tournaments.twentyfive,
-      result: 0,
-    },
-    {
       ...players.lowry,
       ...tournaments.twentyfive,
       result: 520000,
