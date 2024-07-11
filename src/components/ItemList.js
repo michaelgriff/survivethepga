@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>John Deere Classic</TournamentName>
+          <TournamentName>Genesis Scottish Open</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              TPC Deere Run • Jun 27-30, 2024
+              The Rennaissance Club • Jul 11-14, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
