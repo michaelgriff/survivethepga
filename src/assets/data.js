@@ -718,7 +718,7 @@ export const history = {
     {
       ...players.lee,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 17910,
     },
   ],
   davidifergan: [
@@ -870,7 +870,7 @@ export const history = {
     {
       ...players.fleetwood,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 46890,
     },
   ],
   mattholland: [
@@ -1326,7 +1326,7 @@ export const history = {
     {
       ...players.lee,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 17910,
     },
   ],
   benroher: [
@@ -1478,7 +1478,7 @@ export const history = {
     {
       ...players.conners,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 209250,
     },
   ],
   michaelgriff: [
@@ -1630,7 +1630,7 @@ export const history = {
     {
       ...players.rai,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 330750,
     },
   ],
   chasebergman: [
@@ -1782,7 +1782,7 @@ export const history = {
     {
       ...players.tkim,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 141750,
     },
   ],
   coletishler: [
@@ -1934,7 +1934,7 @@ export const history = {
     {
       ...players.aberg,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 330750,
     },
   ],
   deansacoransky: [
@@ -2086,7 +2086,7 @@ export const history = {
     {
       ...players.hojgaard,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 35550,
     },
   ],
   maxwiseman: [
@@ -2390,7 +2390,7 @@ export const history = {
     {
       ...players.fleetwood,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 46890,
     },
   ],
   adamgriff: [
@@ -2542,7 +2542,7 @@ export const history = {
     {
       ...players.hovland,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 23359,
     },
   ],
   davidgriff: [
@@ -2694,7 +2694,7 @@ export const history = {
     {
       ...players.aberg,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 330750,
     },
   ],
   simongrammer: [
@@ -2846,7 +2846,7 @@ export const history = {
     {
       ...players.clark,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 209250,
     },
   ],
   tygreenberg: [
@@ -2998,7 +2998,7 @@ export const history = {
     {
       ...players.fleetwood,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 46890,
     },
   ],
   fletcherblakely: [
@@ -3150,7 +3150,7 @@ export const history = {
     {
       ...players.macintyre,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 1620000,
     },
   ],
   harrywood: [
@@ -3302,7 +3302,7 @@ export const history = {
     {
       ...players.davis,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 63000,
     },
   ],
   aarongotkin: [
@@ -3454,7 +3454,7 @@ export const history = {
     {
       ...players.harman,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 94410,
     },
   ],
   spencersnow: [
@@ -3606,7 +3606,7 @@ export const history = {
     {
       ...players.tkim,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 141750,
     },
   ],
   jonahgutmann: [
@@ -3758,7 +3758,7 @@ export const history = {
     {
       ...players.fleetwood,
       ...tournaments.twentyeight,
-      result: 0,
+      result: 46890,
     },
   ],
   benstarkman: [
@@ -3905,7 +3905,7 @@ export const history = {
     {
       ...players.hojgaard,
       ...tournaments.twentyseven,
-      result: 0,
+      result: 35550,
     },
   ],
 };
