@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>Genesis Scottish Open</TournamentName>
+          <TournamentName>The Open</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              The Rennaissance Club • Jul 11-14, 2024
+              Royal Troon Golf Club • Jul 18-21, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
