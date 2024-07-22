@@ -883,7 +883,7 @@ export const history = {
     {
       ...players.rahm,
       ...tournaments.twentynine,
-      result: 0,
+      result: 451833,
     },
   ],
   mattholland: [
@@ -1040,7 +1040,7 @@ export const history = {
     {
       ...players.rahm,
       ...tournaments.twentynine,
-      result: 0,
+      result: 451833,
     },
   ],
   jakegreenberg: [
@@ -1197,7 +1197,7 @@ export const history = {
     {
       ...players.rahm,
       ...tournaments.twentynine,
-      result: 0,
+      result: 451833,
     },
   ],
   dustinpulver: [
@@ -1354,7 +1354,7 @@ export const history = {
     {
       ...players.im,
       ...tournaments.twentynine,
-      result: 0,
+      result: 451833,
     },
   ],
   benroher: [
@@ -2296,7 +2296,7 @@ export const history = {
     {
       ...players.koepka,
       ...tournaments.twentynine,
-      result: 0,
+      result: 55943,
     },
   ],
   ryanschwartz: [
@@ -2767,7 +2767,7 @@ export const history = {
     {
       ...players.rai,
       ...tournaments.twentynine,
-      result: 0,
+      result: 38525,
     },
   ],
   simongrammer: [
@@ -2924,7 +2924,7 @@ export const history = {
     {
       ...players.rahm,
       ...tournaments.twentynine,
-      result: 0,
+      result: 451833,
     },
   ],
   tygreenberg: [
@@ -3866,7 +3866,7 @@ export const history = {
     {
       ...players.morikawa,
       ...tournaments.twentynine,
-      result: 0,
+      result: 202700,
     },
   ],
   benstarkman: [
