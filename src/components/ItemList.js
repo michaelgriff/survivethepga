@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>The Open</TournamentName>
+          <TournamentName>3M Open</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Royal Troon Golf Club • Jul 18-21, 2024
+              TPC Twin Cities • Jul 25-28, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
