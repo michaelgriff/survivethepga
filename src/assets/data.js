@@ -3344,7 +3344,7 @@ export const history = {
       result: 0,
     },
     {
-      ...players.horschel,
+      ...players.buckley,
       ...tournaments.thirty,
       result: 0,
     },
