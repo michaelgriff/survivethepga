@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>3M Open</TournamentName>
+          <TournamentName>Wyndham Championship</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              TPC Twin Cities • Jul 25-28, 2024
+              Sedgefield CC • Aug 8-11, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
