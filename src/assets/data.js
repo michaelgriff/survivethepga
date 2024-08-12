@@ -1111,7 +1111,7 @@ export const history = {
     {
       ...players.mitchell,
       ...tournaments.thirtyone,
-      result: 0,
+      result: 144965,
     },
   ],
   jakegreenberg: [
@@ -1445,7 +1445,7 @@ export const history = {
     {
       ...players.horschel,
       ...tournaments.thirtyone,
-      result: 0,
+      result: 249245,
     },
   ],
   benroher: [
@@ -1612,7 +1612,7 @@ export const history = {
     {
       ...players.bezuidenhout,
       ...tournaments.thirtyone,
-      result: 0,
+      result: 79658,
     },
   ],
   michaelgriff: [
@@ -1779,7 +1779,7 @@ export const history = {
     {
       ...players.young,
       ...tournaments.thirtyone,
-      result: 0,
+      result: 79658,
     },
   ],
   chasebergman: [
@@ -2280,7 +2280,7 @@ export const history = {
     {
       ...players.riley,
       ...tournaments.thirtyone,
-      result: 0,
+      result: 37525,
     },
   ],
   maxwiseman: [
@@ -2948,7 +2948,7 @@ export const history = {
     {
       ...players.horschel,
       ...tournaments.thirtyone,
-      result: 0,
+      result: 249245,
     },
   ],
   simongrammer: [
@@ -3115,7 +3115,7 @@ export const history = {
     {
       ...players.young,
       ...tournaments.thirtyone,
-      result: 0,
+      result: 79658,
     },
   ],
   tygreenberg: [
@@ -3282,7 +3282,7 @@ export const history = {
     {
       ...players.horschel,
       ...tournaments.thirtyone,
-      result: 0,
+      result: 249245,
     },
   ],
   fletcherblakely: [
@@ -3449,7 +3449,7 @@ export const history = {
     {
       ...players.horschel,
       ...tournaments.thirtyone,
-      result: 0,
+      result: 249245,
     },
   ],
   harrywood: [
@@ -3783,7 +3783,7 @@ export const history = {
     {
       ...players.young,
       ...tournaments.thirtyone,
-      result: 0,
+      result: 79658,
     },
   ],
   spencersnow: [
@@ -3950,7 +3950,7 @@ export const history = {
     {
       ...players.thompson,
       ...tournaments.thirtyone,
-      result: 0,
+      result: 144965,
     },
   ],
   jonahgutmann: [
@@ -4279,7 +4279,7 @@ export const history = {
     {
       ...players.harman,
       ...tournaments.thirtyone,
-      result: 0,
+      result: 23711,
     },
   ],
 };
