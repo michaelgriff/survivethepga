@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>Wyndham Championship</TournamentName>
+          <TournamentName>FedEx St. Jude</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Sedgefield CC • Aug 8-11, 2024
+              TPC Southwind • Aug 15-18, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
