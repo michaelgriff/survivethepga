@@ -785,7 +785,7 @@ export const history = {
     {
       ...players.aberg,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 76000,
     },
   ],
   davidifergan: [
@@ -957,7 +957,7 @@ export const history = {
     {
       ...players.im,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 76000,
     },
   ],
   mattholland: [
@@ -1129,7 +1129,7 @@ export const history = {
     {
       ...players.mcnealy,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 405000,
     },
   ],
   jakegreenberg: [
@@ -1301,7 +1301,7 @@ export const history = {
     {
       ...players.theegala,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 56700,
     },
   ],
   dustinpulver: [
@@ -1473,7 +1473,7 @@ export const history = {
     {
       ...players.scheffler,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 960000,
     },
   ],
   benroher: [
@@ -1645,7 +1645,7 @@ export const history = {
     {
       ...players.matsuyama,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 3600000,
     },
   ],
   michaelgriff: [
@@ -1817,7 +1817,7 @@ export const history = {
     {
       ...players.tkim,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 47250,
     },
   ],
   chasebergman: [
@@ -1989,7 +1989,7 @@ export const history = {
     {
       ...players.thomas,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 130000,
     },
   ],
   coletishler: [
@@ -2161,7 +2161,7 @@ export const history = {
     {
       ...players.finau,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 330000,
     },
   ],
   deansacoransky: [
@@ -2505,7 +2505,7 @@ export const history = {
     {
       ...players.henley,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 130000,
     },
   ],
   ryanschwartz: [
@@ -2677,7 +2677,7 @@ export const history = {
     {
       ...players.aberg,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 76000,
     },
   ],
   adamgriff: [
@@ -2849,7 +2849,7 @@ export const history = {
     {
       ...players.cantlay,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 405000,
     },
   ],
   davidgriff: [
@@ -3021,7 +3021,7 @@ export const history = {
     {
       ...players.pavon,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 56700,
     },
   ],
   simongrammer: [
@@ -3193,7 +3193,7 @@ export const history = {
     {
       ...players.scheffler,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 960000,
     },
   ],
   tygreenberg: [
@@ -3365,7 +3365,7 @@ export const history = {
     {
       ...players.matsuyama,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 3600000,
     },
   ],
   fletcherblakely: [
@@ -3537,7 +3537,7 @@ export const history = {
     {
       ...players.henley,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 130000,
     },
   ],
   harrywood: [
@@ -3709,7 +3709,7 @@ export const history = {
     {
       ...players.mcnealy,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 405000,
     },
   ],
   aarongotkin: [
@@ -3881,7 +3881,7 @@ export const history = {
     {
       ...players.theegala,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 56700,
     },
   ],
   spencersnow: [
@@ -4053,7 +4053,7 @@ export const history = {
     {
       ...players.scheffler,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 960000,
     },
   ],
   jonahgutmann: [
@@ -4225,7 +4225,7 @@ export const history = {
     {
       ...players.conners,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 47250,
     },
   ],
   benstarkman: [
@@ -4392,7 +4392,7 @@ export const history = {
     {
       ...players.detry,
       ...tournaments.thirtytwo,
-      result: 0,
+      result: 56700,
     },
   ],
 };
