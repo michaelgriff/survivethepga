@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>FedEx St. Jude</TournamentName>
+          <TournamentName>BMW Championship</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              TPC Southwind • Aug 15-18, 2024
+              Castle Pines GC • Aug 22-25, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>

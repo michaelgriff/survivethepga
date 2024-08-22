@@ -613,6 +613,9 @@ const tournaments = {
   thirtytwo: {
     tournamentName: "FedEx St. Jude",
   },
+  thirtythree: {
+    tournamentName: "BMW Championship",
+  },
 };
 
 export const history = {
@@ -787,6 +790,11 @@ export const history = {
       ...tournaments.thirtytwo,
       result: 76000,
     },
+    {
+      ...players.theegala,
+      ...tournaments.thirtythree,
+      result: 0,
+    },
   ],
   davidifergan: [
     {
@@ -958,6 +966,11 @@ export const history = {
       ...players.im,
       ...tournaments.thirtytwo,
       result: 76000,
+    },
+    {
+      ...players.cantlay,
+      ...tournaments.thirtythree,
+      result: 0,
     },
   ],
   mattholland: [
@@ -1131,6 +1144,11 @@ export const history = {
       ...tournaments.thirtytwo,
       result: 405000,
     },
+    {
+      ...players.poston,
+      ...tournaments.thirtythree,
+      result: 0,
+    },
   ],
   jakegreenberg: [
     {
@@ -1302,6 +1320,11 @@ export const history = {
       ...players.theegala,
       ...tournaments.thirtytwo,
       result: 56700,
+    },
+    {
+      ...players.clark,
+      ...tournaments.thirtythree,
+      result: 0,
     },
   ],
   dustinpulver: [
@@ -1475,6 +1498,11 @@ export const history = {
       ...tournaments.thirtytwo,
       result: 960000,
     },
+    {
+      ...players.scott,
+      ...tournaments.thirtythree,
+      result: 0,
+    },
   ],
   benroher: [
     {
@@ -1646,6 +1674,11 @@ export const history = {
       ...players.matsuyama,
       ...tournaments.thirtytwo,
       result: 3600000,
+    },
+    {
+      ...players.henley,
+      ...tournaments.thirtythree,
+      result: 0,
     },
   ],
   michaelgriff: [
@@ -1819,6 +1852,11 @@ export const history = {
       ...tournaments.thirtytwo,
       result: 47250,
     },
+    {
+      ...players.zalatoris,
+      ...tournaments.thirtythree,
+      result: 0,
+    },
   ],
   chasebergman: [
     {
@@ -1990,6 +2028,11 @@ export const history = {
       ...players.thomas,
       ...tournaments.thirtytwo,
       result: 130000,
+    },
+    {
+      ...players.rai,
+      ...tournaments.thirtythree,
+      result: 0,
     },
   ],
   coletishler: [
@@ -2163,6 +2206,11 @@ export const history = {
       ...tournaments.thirtytwo,
       result: 330000,
     },
+    {
+      ...players.hovland,
+      ...tournaments.thirtythree,
+      result: 0,
+    },
   ],
   deansacoransky: [
     {
@@ -2333,6 +2381,11 @@ export const history = {
     {
       ...players.morikawa,
       ...tournaments.thirtytwo,
+      result: 0,
+    },
+    {
+      ...players.hovland,
+      ...tournaments.thirtythree,
       result: 0,
     },
   ],
@@ -2507,6 +2560,11 @@ export const history = {
       ...tournaments.thirtytwo,
       result: 130000,
     },
+    {
+      ...players.clark,
+      ...tournaments.thirtythree,
+      result: 0,
+    },
   ],
   ryanschwartz: [
     {
@@ -2678,6 +2736,11 @@ export const history = {
       ...players.aberg,
       ...tournaments.thirtytwo,
       result: 76000,
+    },
+    {
+      ...players.pavon,
+      ...tournaments.thirtythree,
+      result: 0,
     },
   ],
   adamgriff: [
@@ -2851,6 +2914,11 @@ export const history = {
       ...tournaments.thirtytwo,
       result: 405000,
     },
+    {
+      ...players.scheffler,
+      ...tournaments.thirtythree,
+      result: 0,
+    },
   ],
   davidgriff: [
     {
@@ -3022,6 +3090,11 @@ export const history = {
       ...players.pavon,
       ...tournaments.thirtytwo,
       result: 56700,
+    },
+    {
+      ...players.macintyre,
+      ...tournaments.thirtythree,
+      result: 0,
     },
   ],
   simongrammer: [
@@ -3195,6 +3268,11 @@ export const history = {
       ...tournaments.thirtytwo,
       result: 960000,
     },
+    {
+      ...players.fleetwood,
+      ...tournaments.thirtythree,
+      result: 0,
+    },
   ],
   tygreenberg: [
     {
@@ -3366,6 +3444,11 @@ export const history = {
       ...players.matsuyama,
       ...tournaments.thirtytwo,
       result: 3600000,
+    },
+    {
+      ...players.hovland,
+      ...tournaments.thirtythree,
+      result: 0,
     },
   ],
   fletcherblakely: [
@@ -3539,6 +3622,11 @@ export const history = {
       ...tournaments.thirtytwo,
       result: 130000,
     },
+    {
+      ...players.bhatia,
+      ...tournaments.thirtythree,
+      result: 0,
+    },
   ],
   harrywood: [
     {
@@ -3710,6 +3798,11 @@ export const history = {
       ...players.mcnealy,
       ...tournaments.thirtytwo,
       result: 405000,
+    },
+    {
+      ...players.clark,
+      ...tournaments.thirtythree,
+      result: 0,
     },
   ],
   aarongotkin: [
@@ -3883,6 +3976,11 @@ export const history = {
       ...tournaments.thirtytwo,
       result: 56700,
     },
+    {
+      ...players.finau,
+      ...tournaments.thirtythree,
+      result: 0,
+    },
   ],
   spencersnow: [
     {
@@ -4054,6 +4152,11 @@ export const history = {
       ...players.scheffler,
       ...tournaments.thirtytwo,
       result: 960000,
+    },
+    {
+      ...players.mccarthy,
+      ...tournaments.thirtythree,
+      result: 0,
     },
   ],
   jonahgutmann: [
@@ -4227,6 +4330,11 @@ export const history = {
       ...tournaments.thirtytwo,
       result: 47250,
     },
+    {
+      ...players.thompson,
+      ...tournaments.thirtythree,
+      result: 0,
+    },
   ],
   benstarkman: [
     {
@@ -4393,6 +4501,11 @@ export const history = {
       ...players.detry,
       ...tournaments.thirtytwo,
       result: 56700,
+    },
+    {
+      ...players.burns,
+      ...tournaments.thirtythree,
+      result: 0,
     },
   ],
 };
