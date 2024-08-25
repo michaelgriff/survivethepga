@@ -793,7 +793,7 @@ export const history = {
     {
       ...players.theegala,
       ...tournaments.thirtythree,
-      result: 0,
+      result: 70000,
     },
   ],
   davidifergan: [
