@@ -46,10 +46,10 @@ const ItemList = ({ data }) => {
     <>
       {data[0].playerName && data[0].name ? (
         <>
-          <TournamentName>BMW Championship</TournamentName>
+          <TournamentName>Tour Championship</TournamentName>
           <TournamentSubHeading>
             <TournamentSubHeadingText>
-              Castle Pines GC • Aug 22-25, 2024
+              East Lake GC • Aug 29-Sep 1, 2024
             </TournamentSubHeadingText>
           </TournamentSubHeading>
         </>
