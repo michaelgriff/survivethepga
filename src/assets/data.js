@@ -801,7 +801,7 @@ export const history = {
     {
       ...players.matsuyama,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 580000,
     },
   ],
   davidifergan: [
@@ -983,7 +983,7 @@ export const history = {
     {
       ...players.scheffler,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 3600000,
     },
   ],
   mattholland: [
@@ -1165,7 +1165,7 @@ export const history = {
     {
       ...players.henley,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 856667,
     },
   ],
   jakegreenberg: [
@@ -1347,7 +1347,7 @@ export const history = {
     {
       ...players.cantlay,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 322000,
     },
   ],
   dustinpulver: [
@@ -1529,7 +1529,7 @@ export const history = {
     {
       ...players.bezuidenhout,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 156500,
     },
   ],
   benroher: [
@@ -1711,7 +1711,7 @@ export const history = {
     {
       ...players.burns,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 460500,
     },
   ],
   michaelgriff: [
@@ -1893,7 +1893,7 @@ export const history = {
     {
       ...players.matsuyama,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 580000,
     },
   ],
   chasebergman: [
@@ -2075,7 +2075,7 @@ export const history = {
     {
       ...players.matsuyama,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 580000,
     },
   ],
   coletishler: [
@@ -2257,7 +2257,7 @@ export const history = {
     {
       ...players.bradley,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 253500,
     },
   ],
   deansacoransky: [
@@ -2439,7 +2439,7 @@ export const history = {
     {
       ...players.clark,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 640000,
     },
   ],
   maxwiseman: [
@@ -2621,7 +2621,7 @@ export const history = {
     {
       ...players.schauffele,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 856667,
     },
   ],
   ryanschwartz: [
@@ -2803,7 +2803,7 @@ export const history = {
     {
       ...players.bradley,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 253500,
     },
   ],
   adamgriff: [
@@ -2985,7 +2985,7 @@ export const history = {
     {
       ...players.clark,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 640000,
     },
   ],
   davidgriff: [
@@ -3167,7 +3167,7 @@ export const history = {
     {
       ...players.bradley,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 253500,
     },
   ],
   simongrammer: [
@@ -3349,7 +3349,7 @@ export const history = {
     {
       ...players.bezuidenhout,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 156500,
     },
   ],
   tygreenberg: [
@@ -3531,7 +3531,7 @@ export const history = {
     {
       ...players.aberg,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 362000,
     },
   ],
   fletcherblakely: [
@@ -3713,7 +3713,7 @@ export const history = {
     {
       ...players.scheffler,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 3600000,
     },
   ],
   harrywood: [
@@ -3895,7 +3895,7 @@ export const history = {
     {
       ...players.kirk,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 170500,
     },
   ],
   aarongotkin: [
@@ -4077,7 +4077,7 @@ export const history = {
     {
       ...players.burns,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 460500,
     },
   ],
   spencersnow: [
@@ -4259,7 +4259,7 @@ export const history = {
     {
       ...players.clark,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 640000,
     },
   ],
   jonahgutmann: [
@@ -4441,7 +4441,7 @@ export const history = {
     {
       ...players.straka,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 170500,
     },
   ],
   benstarkman: [
@@ -4618,7 +4618,7 @@ export const history = {
     {
       ...players.scheffler,
       ...tournaments.thirtyfour,
-      result: 0,
+      result: 3600000,
     },
   ],
 };
